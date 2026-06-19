@@ -126,7 +126,7 @@ def simulate(req: SimRequest):
     round_config = [
         ("Quarter Final",    qf_pool,    0.0),
         ("Semi Final",       sf_pool,    0.04),
-        ("All-Ireland Final", final_pool, 0.20),
+        ("All-Ireland Final", final_pool, 0.28),
     ]
 
     used_opp = set()
