@@ -93,7 +93,7 @@ def gen_timeline(user_players: list, opp_players: list, user_score: dict, opp_sc
 
     def assign_events(score: dict, pool: list, team: str) -> list:
         g, p = score["goals"], score["points"]
-        total = min(g + p, 11)
+        total = g + p  # show all scoring events so ticker matches final score
         minutes = sorted(random.randint(1, 70) for _ in range(total))
         events = []
         for minute in minutes:
@@ -124,8 +124,8 @@ def simulate(req: SimRequest):
 
     # Round difficulty bias: subtracted from user win probability
     round_config = [
-        ("Quarter Final", qf_pool,    0.0),
-        ("Semi Final",    sf_pool,     0.08),
+        ("Quarter Final",    qf_pool,    0.0),
+        ("Semi Final",       sf_pool,    0.04),
         ("All-Ireland Final", final_pool, 0.20),
     ]
 
