@@ -114,14 +114,25 @@ function setRerollBtns(enabled) {
 
 async function reroll(type) {
   if (rerollsLeft <= 0) return;
+  const savedTeam = currentTeam;
+  const params = type === 'county' ? { county: currentTeam.county } : { year: currentTeam.year };
+
+  // Peek — check if any teams are available before spending the roll
+  const qs = new URLSearchParams();
+  if (usedKeys.length) qs.set('used_keys', usedKeys.join(','));
+  if (params.county) qs.set('county', params.county);
+  if (params.year)   qs.set('year', params.year);
+  const peek = await fetch(`/api/spin?${qs}`).then(r => r.json());
+
+  if (peek.done) {
+    const label = type === 'county' ? `No other ${savedTeam.county} teams available` : `No other ${savedTeam.year} teams available`;
+    showToast(label + ' — roll not spent');
+    return;
+  }
+
   rerollsLeft--;
   setRerollBtns(false);
-
-  if (type === 'county') {
-    await spin({ county: currentTeam.county });
-  } else {
-    await spin({ year: currentTeam.year });
-  }
+  await spin(params);
 }
 
 // ── SQUAD RENDER ──────────────────────────────────────────────────────────────
