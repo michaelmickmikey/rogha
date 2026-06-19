@@ -15,11 +15,11 @@ with open(DATA_PATH) as f:
 
 POSITION_GROUPS = {
     "GK":  ["GK"],
-    "RFB": ["RFB","FB","LFB"], "FB": ["RFB","FB","LFB"], "LFB": ["RFB","FB","LFB"],
+    "RCB": ["RCB","FB","LCB"], "FB": ["RCB","FB","LCB"], "LCB": ["RCB","FB","LCB"],
     "RHB": ["RHB","CHB","LHB"], "CHB": ["RHB","CHB","LHB"], "LHB": ["RHB","CHB","LHB"],
     "MF":  ["MF"],
     "RHF": ["RHF","CHF","LHF"], "CHF": ["RHF","CHF","LHF"], "LHF": ["RHF","CHF","LHF"],
-    "RFF": ["RFF","FF","LFF"], "FF": ["RFF","FF","LFF"], "LFF": ["RFF","FF","LFF"],
+    "RCF": ["RCF","FF","LCF"], "FF": ["RCF","FF","LCF"], "LCF": ["RCF","FF","LCF"],
 }
 
 def position_fit(player_pos: str, slot_pos: str) -> float:
@@ -27,8 +27,8 @@ def position_fit(player_pos: str, slot_pos: str) -> float:
         return 1.0
     if slot_pos in POSITION_GROUPS.get(player_pos, []):
         return 0.9
-    defense = ["RFB","FB","LFB","RHB","CHB","LHB"]
-    forward = ["RHF","CHF","LHF","RFF","FF","LFF"]
+    defense = ["RCB","FB","LCB","RHB","CHB","LHB"]
+    forward = ["RHF","CHF","LHF","RCF","FF","LCF"]
     for zone in [defense, ["MF"], forward]:
         if player_pos in zone and slot_pos in zone:
             return 0.75
@@ -82,7 +82,7 @@ def gen_gaa_score(strength: float, is_winner: bool) -> dict:
 
 
 def gen_timeline(user_players: list, opp_players: list, user_score: dict, opp_score: dict) -> list:
-    forward_pos = {"RFF", "FF", "LFF", "RHF", "CHF", "LHF", "MF"}
+    forward_pos = {"RCF", "FF", "LCF", "RHF", "CHF", "LHF", "MF"}
 
     def scorer_pool(players):
         pool = []
@@ -170,7 +170,7 @@ def simulate(req: SimRequest):
 
 @app.post("/api/rate")
 def rate_team(req: RateRequest):
-    SLOTS = ["GK","RFB","FB","LFB","RHB","CHB","LHB","MF","MF","RHF","CHF","LHF","RFF","FF","LFF"]
+    SLOTS = ["GK","RCB","FB","LCB","RHB","CHB","LHB","MF","MF","RHF","CHF","LHF","RCF","FF","LCF"]
     players = req.players[:15]
 
     # greedy best-fit assignment

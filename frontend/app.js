@@ -1,12 +1,12 @@
-const POSITION_MAX = { GK:1, RFB:1, FB:1, LFB:1, RHB:1, CHB:1, LHB:1, MF:2, RHF:1, CHF:1, LHF:1, RFF:1, FF:1, LFF:1 };
+const POSITION_MAX = { GK:1, RCB:1, FB:1, LCB:1, RHB:1, CHB:1, LHB:1, MF:2, RHF:1, CHF:1, LHF:1, RCF:1, FF:1, LCF:1 };
 
 const SLOT_CANDIDATES = {
   GK:  ['GK'],
-  RFB: ['RFB','FB','LFB'], FB: ['FB','RFB','LFB'], LFB: ['LFB','FB','RFB'],
+  RCB: ['RCB','FB','LCB'], FB: ['FB','RCB','LCB'], LCB: ['LCB','FB','RCB'],
   RHB: ['RHB','CHB','LHB'], CHB: ['CHB','RHB','LHB'], LHB: ['LHB','CHB','RHB'],
   MF:  ['MF-0','MF-1'],
   RHF: ['RHF','CHF','LHF'], CHF: ['CHF','RHF','LHF'], LHF: ['LHF','CHF','RHF'],
-  RFF: ['RFF','FF','LFF'], FF: ['FF','RFF','LFF'], LFF: ['LFF','FF','RFF'],
+  RCF: ['RCF','FF','LCF'], FF: ['FF','RCF','LCF'], LCF: ['LCF','FF','RCF'],
 };
 
 const COUNTY_COLORS = {
@@ -36,8 +36,8 @@ const COUNTY_COLORS = {
   'Westmeath': '#8B0000',
 };
 
-const POS_ORDER = ["GK","RFB","FB","LFB","RHB","CHB","LHB","MF","RHF","CHF","LHF","RFF","FF","LFF"];
-const SLOT_DISPLAY_ORDER = ["GK","RFB","FB","LFB","RHB","CHB","LHB","MF","MF","RHF","CHF","LHF","RFF","FF","LFF"];
+const POS_ORDER = ["GK","RCB","FB","LCB","RHB","CHB","LHB","MF","RHF","CHF","LHF","RCF","FF","LCF"];
+const SLOT_DISPLAY_ORDER = ["GK","RCB","FB","LCB","RHB","CHB","LHB","MF","MF","RHF","CHF","LHF","RCF","FF","LCF"];
 
 let usedKeys = [];
 let myTeam = [];

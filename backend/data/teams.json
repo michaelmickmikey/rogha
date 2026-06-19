@@ -10,7 +10,7 @@
       },
       {
         "name": "Ger O'Keeffe",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -20,7 +20,7 @@
       },
       {
         "name": "Paudie Lynch",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -65,7 +65,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -75,7 +75,7 @@
       },
       {
         "name": "Mikey Sheehy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 91
       }
     ]
@@ -91,7 +91,7 @@
       },
       {
         "name": "Mick Ryan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -101,7 +101,7 @@
       },
       {
         "name": "Sean Lowry",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -146,7 +146,7 @@
       },
       {
         "name": "Matt Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 93
       },
       {
@@ -156,7 +156,7 @@
       },
       {
         "name": "John Guinan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -172,7 +172,7 @@
       },
       {
         "name": "Harry Keegan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -182,7 +182,7 @@
       },
       {
         "name": "Tom Heneghan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -227,7 +227,7 @@
       },
       {
         "name": "John O'Gara",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -237,7 +237,7 @@
       },
       {
         "name": "Gerry Fitzmaurice",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -253,7 +253,7 @@
       },
       {
         "name": "Denis Stevenson",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -263,7 +263,7 @@
       },
       {
         "name": "Paddy Moriarty",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -308,7 +308,7 @@
       },
       {
         "name": "Jimmy Smyth",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -318,7 +318,7 @@
       },
       {
         "name": "Sean Devlin",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -334,7 +334,7 @@
       },
       {
         "name": "Ger O'Keeffe",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -344,7 +344,7 @@
       },
       {
         "name": "Paudie Lynch",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -389,7 +389,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -399,7 +399,7 @@
       },
       {
         "name": "Mikey Sheehy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 91
       }
     ]
@@ -415,7 +415,7 @@
       },
       {
         "name": "Mick Ryan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -425,7 +425,7 @@
       },
       {
         "name": "Sean Lowry",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -470,7 +470,7 @@
       },
       {
         "name": "Matt Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 93
       },
       {
@@ -480,7 +480,7 @@
       },
       {
         "name": "John Guinan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -496,7 +496,7 @@
       },
       {
         "name": "Willie Nally",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -506,7 +506,7 @@
       },
       {
         "name": "Martin Carney",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -551,7 +551,7 @@
       },
       {
         "name": "Pat Spillane Mayo",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 77
       },
       {
@@ -561,7 +561,7 @@
       },
       {
         "name": "John P. Kean",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -577,7 +577,7 @@
       },
       {
         "name": "Paddy Kennedy",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -587,7 +587,7 @@
       },
       {
         "name": "Tom Lennon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -632,7 +632,7 @@
       },
       {
         "name": "Pat Rice",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -642,7 +642,7 @@
       },
       {
         "name": "Jim Milligan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -658,7 +658,7 @@
       },
       {
         "name": "Ger O'Keeffe",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -668,7 +668,7 @@
       },
       {
         "name": "Paudie Lynch",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -713,7 +713,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -723,7 +723,7 @@
       },
       {
         "name": "Mikey Sheehy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 90
       }
     ]
@@ -739,7 +739,7 @@
       },
       {
         "name": "Mick Ryan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -749,7 +749,7 @@
       },
       {
         "name": "Sean Lowry",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -794,7 +794,7 @@
       },
       {
         "name": "Matt Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 93
       },
       {
@@ -804,7 +804,7 @@
       },
       {
         "name": "John Guinan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -820,7 +820,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -830,7 +830,7 @@
       },
       {
         "name": "Martin Healy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -875,7 +875,7 @@
       },
       {
         "name": "Jimmy Barry-Murphy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -885,7 +885,7 @@
       },
       {
         "name": "Pat Horgan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -901,7 +901,7 @@
       },
       {
         "name": "Sean Og De Paor",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -911,7 +911,7 @@
       },
       {
         "name": "Tom Naughton",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -956,7 +956,7 @@
       },
       {
         "name": "Michael Rooney",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -966,7 +966,7 @@
       },
       {
         "name": "John Hughes",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -982,7 +982,7 @@
       },
       {
         "name": "Mick Holden",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -992,7 +992,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Barney Rock",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -1047,7 +1047,7 @@
       },
       {
         "name": "John Caffrey",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -1063,7 +1063,7 @@
       },
       {
         "name": "Sean Og De Paor",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -1073,7 +1073,7 @@
       },
       {
         "name": "Tom Naughton",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -1118,7 +1118,7 @@
       },
       {
         "name": "Michael Rooney",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -1128,7 +1128,7 @@
       },
       {
         "name": "John Hughes",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -1144,7 +1144,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -1154,7 +1154,7 @@
       },
       {
         "name": "Martin Healy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -1199,7 +1199,7 @@
       },
       {
         "name": "Jimmy Barry-Murphy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -1209,7 +1209,7 @@
       },
       {
         "name": "Pat Horgan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -1225,7 +1225,7 @@
       },
       {
         "name": "Ger O'Keeffe",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -1235,7 +1235,7 @@
       },
       {
         "name": "Paudie Lynch",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -1280,7 +1280,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -1290,7 +1290,7 @@
       },
       {
         "name": "Mikey Sheehy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -1306,7 +1306,7 @@
       },
       {
         "name": "Ger O'Keeffe",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -1316,7 +1316,7 @@
       },
       {
         "name": "Mick Spillane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -1361,7 +1361,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -1371,7 +1371,7 @@
       },
       {
         "name": "Mikey Sheehy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 90
       }
     ]
@@ -1387,7 +1387,7 @@
       },
       {
         "name": "Mick Holden",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -1397,7 +1397,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -1442,7 +1442,7 @@
       },
       {
         "name": "Barney Rock",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -1452,7 +1452,7 @@
       },
       {
         "name": "John Caffrey",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -1468,7 +1468,7 @@
       },
       {
         "name": "John Lynch",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -1478,7 +1478,7 @@
       },
       {
         "name": "Eugene McKenna",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -1523,7 +1523,7 @@
       },
       {
         "name": "Iggy Jones",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -1533,7 +1533,7 @@
       },
       {
         "name": "Brendan Donnelly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -1549,7 +1549,7 @@
       },
       {
         "name": "Bob O'Malley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -1559,7 +1559,7 @@
       },
       {
         "name": "Terry Ferguson",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -1604,7 +1604,7 @@
       },
       {
         "name": "Bernard Flynn",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -1614,7 +1614,7 @@
       },
       {
         "name": "Sean Boylan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -1630,7 +1630,7 @@
       },
       {
         "name": "Ger O'Keeffe",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -1640,7 +1640,7 @@
       },
       {
         "name": "Mick Spillane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -1685,7 +1685,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -1695,7 +1695,7 @@
       },
       {
         "name": "Mikey Sheehy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -1711,7 +1711,7 @@
       },
       {
         "name": "Mick Holden",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -1721,7 +1721,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -1766,7 +1766,7 @@
       },
       {
         "name": "Barney Rock",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -1776,7 +1776,7 @@
       },
       {
         "name": "John Caffrey",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -1792,7 +1792,7 @@
       },
       {
         "name": "TJ Kilgallon",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -1802,7 +1802,7 @@
       },
       {
         "name": "Martin Carney",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -1847,7 +1847,7 @@
       },
       {
         "name": "Bosco McDermott",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "John P. Kean",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -1873,7 +1873,7 @@
       },
       {
         "name": "Eamonn Murphy",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -1883,7 +1883,7 @@
       },
       {
         "name": "Gerry McCarville",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -1928,7 +1928,7 @@
       },
       {
         "name": "Kieran Finlay",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -1938,7 +1938,7 @@
       },
       {
         "name": "Sean Og Dowd",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -1954,7 +1954,7 @@
       },
       {
         "name": "Ger O'Keeffe",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -1964,7 +1964,7 @@
       },
       {
         "name": "Mick Spillane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -2009,7 +2009,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -2019,7 +2019,7 @@
       },
       {
         "name": "Mikey Sheehy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 88
       }
     ]
@@ -2035,7 +2035,7 @@
       },
       {
         "name": "John Lynch",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -2045,7 +2045,7 @@
       },
       {
         "name": "Eugene McKenna",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -2090,7 +2090,7 @@
       },
       {
         "name": "Iggy Jones",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -2100,7 +2100,7 @@
       },
       {
         "name": "Brendan Donnelly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -2116,7 +2116,7 @@
       },
       {
         "name": "Bob O'Malley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -2126,7 +2126,7 @@
       },
       {
         "name": "Terry Ferguson",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -2171,7 +2171,7 @@
       },
       {
         "name": "Bernard Flynn",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -2181,7 +2181,7 @@
       },
       {
         "name": "Joe Cassells",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -2197,7 +2197,7 @@
       },
       {
         "name": "Dermot Flanagan Gal",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -2207,7 +2207,7 @@
       },
       {
         "name": "Gerry Glynn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -2252,7 +2252,7 @@
       },
       {
         "name": "Michael Rooney",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -2262,7 +2262,7 @@
       },
       {
         "name": "Tom Tierney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -2278,7 +2278,7 @@
       },
       {
         "name": "Bob O'Malley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -2288,7 +2288,7 @@
       },
       {
         "name": "Terry Ferguson",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -2333,7 +2333,7 @@
       },
       {
         "name": "Bernard Flynn",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -2343,7 +2343,7 @@
       },
       {
         "name": "Joe Cassells",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -2359,7 +2359,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -2369,7 +2369,7 @@
       },
       {
         "name": "Tony Nation",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -2414,7 +2414,7 @@
       },
       {
         "name": "John O'Driscoll",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -2424,7 +2424,7 @@
       },
       {
         "name": "Paul McGrath Cor",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -2440,7 +2440,7 @@
       },
       {
         "name": "Dermot Flanagan Gal",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -2450,7 +2450,7 @@
       },
       {
         "name": "Gerry Glynn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -2495,7 +2495,7 @@
       },
       {
         "name": "Michael Rooney",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -2505,7 +2505,7 @@
       },
       {
         "name": "Tom Tierney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -2521,7 +2521,7 @@
       },
       {
         "name": "John McGurk",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -2531,7 +2531,7 @@
       },
       {
         "name": "Tom Quinn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -2576,7 +2576,7 @@
       },
       {
         "name": "Seamus Downey",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -2586,7 +2586,7 @@
       },
       {
         "name": "John Mulholland",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -2602,7 +2602,7 @@
       },
       {
         "name": "Bob O'Malley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -2612,7 +2612,7 @@
       },
       {
         "name": "Terry Ferguson",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -2657,7 +2657,7 @@
       },
       {
         "name": "Bernard Flynn",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -2667,7 +2667,7 @@
       },
       {
         "name": "Joe Cassells",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -2683,7 +2683,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -2693,7 +2693,7 @@
       },
       {
         "name": "Tony Nation",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -2738,7 +2738,7 @@
       },
       {
         "name": "John O'Driscoll",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -2748,7 +2748,7 @@
       },
       {
         "name": "Paul McGrath Cor",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -2764,7 +2764,7 @@
       },
       {
         "name": "John Lynch",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -2774,7 +2774,7 @@
       },
       {
         "name": "Eugene McKenna",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -2819,7 +2819,7 @@
       },
       {
         "name": "Iggy Jones",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -2829,7 +2829,7 @@
       },
       {
         "name": "Brendan Donnelly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -2845,7 +2845,7 @@
       },
       {
         "name": "Eamonn Murphy",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -2855,7 +2855,7 @@
       },
       {
         "name": "Gerry McCarville",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -2900,7 +2900,7 @@
       },
       {
         "name": "Kieran Finlay",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -2910,7 +2910,7 @@
       },
       {
         "name": "Sean Og Dowd",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -2926,7 +2926,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 86
       },
       {
@@ -2936,7 +2936,7 @@
       },
       {
         "name": "Tony Nation",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -2981,7 +2981,7 @@
       },
       {
         "name": "John O'Driscoll",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -2991,7 +2991,7 @@
       },
       {
         "name": "Colin Corkery",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -3007,7 +3007,7 @@
       },
       {
         "name": "TJ Kilgallon",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -3017,7 +3017,7 @@
       },
       {
         "name": "Martin Carney",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -3062,7 +3062,7 @@
       },
       {
         "name": "Bosco McDermott",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -3072,7 +3072,7 @@
       },
       {
         "name": "John P. Kean",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -3088,7 +3088,7 @@
       },
       {
         "name": "Mick Holden",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -3098,7 +3098,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -3143,7 +3143,7 @@
       },
       {
         "name": "Barney Rock",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -3153,7 +3153,7 @@
       },
       {
         "name": "Vinnie Murphy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -3169,7 +3169,7 @@
       },
       {
         "name": "John Lynch",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -3179,7 +3179,7 @@
       },
       {
         "name": "Eugene McKenna",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -3224,7 +3224,7 @@
       },
       {
         "name": "Iggy Jones",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -3234,7 +3234,7 @@
       },
       {
         "name": "Brendan Donnelly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -3250,7 +3250,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 86
       },
       {
@@ -3260,7 +3260,7 @@
       },
       {
         "name": "Tony Nation",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -3305,7 +3305,7 @@
       },
       {
         "name": "John O'Driscoll",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -3315,7 +3315,7 @@
       },
       {
         "name": "Colin Corkery",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 84
       }
     ]
@@ -3331,7 +3331,7 @@
       },
       {
         "name": "Bob O'Malley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -3341,7 +3341,7 @@
       },
       {
         "name": "Terry Ferguson",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -3386,7 +3386,7 @@
       },
       {
         "name": "Bernard Flynn",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -3396,7 +3396,7 @@
       },
       {
         "name": "Joe Cassells",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -3412,7 +3412,7 @@
       },
       {
         "name": "Barry Cunningham",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -3422,7 +3422,7 @@
       },
       {
         "name": "Donal Reid",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -3467,7 +3467,7 @@
       },
       {
         "name": "Manus Boyle",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -3477,7 +3477,7 @@
       },
       {
         "name": "John Cunningham",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -3493,7 +3493,7 @@
       },
       {
         "name": "Harry Keegan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -3503,7 +3503,7 @@
       },
       {
         "name": "Aidan Dooley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -3548,7 +3548,7 @@
       },
       {
         "name": "John O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -3558,7 +3558,7 @@
       },
       {
         "name": "Val Daly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -3574,7 +3574,7 @@
       },
       {
         "name": "Barry Burns",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -3584,7 +3584,7 @@
       },
       {
         "name": "D.J. Kane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -3629,7 +3629,7 @@
       },
       {
         "name": "James McCartan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 89
       },
       {
@@ -3639,7 +3639,7 @@
       },
       {
         "name": "Mickey Linden",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 88
       }
     ]
@@ -3655,7 +3655,7 @@
       },
       {
         "name": "Bob O'Malley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -3665,7 +3665,7 @@
       },
       {
         "name": "Terry Ferguson",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -3710,7 +3710,7 @@
       },
       {
         "name": "Bernard Flynn",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -3720,7 +3720,7 @@
       },
       {
         "name": "Joe Cassells",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -3736,7 +3736,7 @@
       },
       {
         "name": "Mike Hassett",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -3746,7 +3746,7 @@
       },
       {
         "name": "Marc O Se",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -3791,7 +3791,7 @@
       },
       {
         "name": "John Egan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -3801,7 +3801,7 @@
       },
       {
         "name": "Pat Spillane",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 84
       }
     ]
@@ -3817,7 +3817,7 @@
       },
       {
         "name": "Harry Keegan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -3827,7 +3827,7 @@
       },
       {
         "name": "Aidan Dooley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -3872,7 +3872,7 @@
       },
       {
         "name": "John O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -3882,7 +3882,7 @@
       },
       {
         "name": "Val Daly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -3898,7 +3898,7 @@
       },
       {
         "name": "Barry Cunningham",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -3908,7 +3908,7 @@
       },
       {
         "name": "Donal Reid",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -3953,7 +3953,7 @@
       },
       {
         "name": "Manus Boyle",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -3963,7 +3963,7 @@
       },
       {
         "name": "John Cunningham",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -3979,7 +3979,7 @@
       },
       {
         "name": "Mick Deegan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -3989,7 +3989,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -4034,7 +4034,7 @@
       },
       {
         "name": "Charlie Redmond",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -4044,7 +4044,7 @@
       },
       {
         "name": "Eamon Heery",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -4060,7 +4060,7 @@
       },
       {
         "name": "TJ Kilgallon",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -4070,7 +4070,7 @@
       },
       {
         "name": "Martin Carney",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -4115,7 +4115,7 @@
       },
       {
         "name": "Conor Devaney",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -4125,7 +4125,7 @@
       },
       {
         "name": "Kevin O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -4141,7 +4141,7 @@
       },
       {
         "name": "Michael O'Halloran",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 75
       },
       {
@@ -4151,7 +4151,7 @@
       },
       {
         "name": "Ger Hoey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 75
       },
       {
@@ -4196,7 +4196,7 @@
       },
       {
         "name": "Ollie Baker",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 77
       },
       {
@@ -4206,7 +4206,7 @@
       },
       {
         "name": "John Joe Neylon",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -4222,7 +4222,7 @@
       },
       {
         "name": "John McGurk",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -4232,7 +4232,7 @@
       },
       {
         "name": "Tom Quinn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -4277,7 +4277,7 @@
       },
       {
         "name": "Seamus Downey",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -4287,7 +4287,7 @@
       },
       {
         "name": "Eamonn Burns",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -4303,7 +4303,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -4313,7 +4313,7 @@
       },
       {
         "name": "Tony Nation",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -4358,7 +4358,7 @@
       },
       {
         "name": "Colin Corkery",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -4368,7 +4368,7 @@
       },
       {
         "name": "Don Davis",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -4384,7 +4384,7 @@
       },
       {
         "name": "Mick Deegan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -4394,7 +4394,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -4439,7 +4439,7 @@
       },
       {
         "name": "Charlie Redmond",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -4449,7 +4449,7 @@
       },
       {
         "name": "Jason Sherlock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 84
       }
     ]
@@ -4465,7 +4465,7 @@
       },
       {
         "name": "Eamonn Murphy",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -4475,7 +4475,7 @@
       },
       {
         "name": "Gerry McCarville",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -4520,7 +4520,7 @@
       },
       {
         "name": "Kieran Finlay",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -4530,7 +4530,7 @@
       },
       {
         "name": "Sean Og Dowd",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -4546,7 +4546,7 @@
       },
       {
         "name": "Barry Burns",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -4556,7 +4556,7 @@
       },
       {
         "name": "D.J. Kane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -4601,7 +4601,7 @@
       },
       {
         "name": "James McCartan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 89
       },
       {
@@ -4611,7 +4611,7 @@
       },
       {
         "name": "Mickey Linden",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 88
       }
     ]
@@ -4627,7 +4627,7 @@
       },
       {
         "name": "Mick Deegan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -4637,7 +4637,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -4682,7 +4682,7 @@
       },
       {
         "name": "Charlie Redmond",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -4692,7 +4692,7 @@
       },
       {
         "name": "Jason Sherlock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 85
       }
     ]
@@ -4708,7 +4708,7 @@
       },
       {
         "name": "Declan Darcy",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -4718,7 +4718,7 @@
       },
       {
         "name": "Aidan Rooney",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 76
       },
       {
@@ -4763,7 +4763,7 @@
       },
       {
         "name": "Enda Lyons",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 77
       },
       {
@@ -4773,7 +4773,7 @@
       },
       {
         "name": "Shane McGettigan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -4789,7 +4789,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -4799,7 +4799,7 @@
       },
       {
         "name": "Tony Nation",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -4844,7 +4844,7 @@
       },
       {
         "name": "Colin Corkery",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -4854,7 +4854,7 @@
       },
       {
         "name": "Podsie O'Mahoney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -4870,7 +4870,7 @@
       },
       {
         "name": "Mick Deegan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -4880,7 +4880,7 @@
       },
       {
         "name": "Pat O'Neill",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -4925,7 +4925,7 @@
       },
       {
         "name": "Charlie Redmond",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -4935,7 +4935,7 @@
       },
       {
         "name": "Jason Sherlock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 86
       }
     ]
@@ -4951,7 +4951,7 @@
       },
       {
         "name": "Paul Devlin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -4961,7 +4961,7 @@
       },
       {
         "name": "Ronan McGarrity",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -5006,7 +5006,7 @@
       },
       {
         "name": "Sean McLaughlin",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -5016,7 +5016,7 @@
       },
       {
         "name": "Brian Dooher",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -5032,7 +5032,7 @@
       },
       {
         "name": "Niall Cahalane",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -5042,7 +5042,7 @@
       },
       {
         "name": "Mark O'Connor",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -5087,7 +5087,7 @@
       },
       {
         "name": "Colin Corkery",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -5097,7 +5097,7 @@
       },
       {
         "name": "Podsie O'Mahoney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -5113,7 +5113,7 @@
       },
       {
         "name": "Tomas Mannion",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -5123,7 +5123,7 @@
       },
       {
         "name": "Ray Silke",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -5168,7 +5168,7 @@
       },
       {
         "name": "Niall Finnegan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -5178,7 +5178,7 @@
       },
       {
         "name": "Paul Clancy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -5194,7 +5194,7 @@
       },
       {
         "name": "Mark O'Reilly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -5204,7 +5204,7 @@
       },
       {
         "name": "Cormac Murphy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -5249,7 +5249,7 @@
       },
       {
         "name": "Barry Callaghan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -5259,7 +5259,7 @@
       },
       {
         "name": "Colm Brady",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -5275,7 +5275,7 @@
       },
       {
         "name": "Kenneth Mortimer",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -5285,7 +5285,7 @@
       },
       {
         "name": "Pat Holmes",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -5330,7 +5330,7 @@
       },
       {
         "name": "James Horan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -5340,7 +5340,7 @@
       },
       {
         "name": "TJ Kilgallon",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -5356,7 +5356,7 @@
       },
       {
         "name": "Paul Devlin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -5366,7 +5366,7 @@
       },
       {
         "name": "Ronan McGarrity",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -5411,7 +5411,7 @@
       },
       {
         "name": "Sean McLaughlin",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -5421,7 +5421,7 @@
       },
       {
         "name": "Cormac McAnallen",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -5437,7 +5437,7 @@
       },
       {
         "name": "Mike Hassett",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -5447,7 +5447,7 @@
       },
       {
         "name": "Marc O Se",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -5492,7 +5492,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -5502,7 +5502,7 @@
       },
       {
         "name": "Maurice Fitzgerald",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -5518,7 +5518,7 @@
       },
       {
         "name": "Mike Hassett",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -5528,7 +5528,7 @@
       },
       {
         "name": "Marc O Se",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -5573,7 +5573,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -5583,7 +5583,7 @@
       },
       {
         "name": "Maurice Fitzgerald",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 91
       }
     ]
@@ -5599,7 +5599,7 @@
       },
       {
         "name": "Kenneth Mortimer",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -5609,7 +5609,7 @@
       },
       {
         "name": "Pat Holmes",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -5654,7 +5654,7 @@
       },
       {
         "name": "James Horan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -5664,7 +5664,7 @@
       },
       {
         "name": "TJ Kilgallon",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -5680,7 +5680,7 @@
       },
       {
         "name": "Kenneth Garry",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -5690,7 +5690,7 @@
       },
       {
         "name": "Finbarr Cullen",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -5735,7 +5735,7 @@
       },
       {
         "name": "Colm Quinn",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -5745,7 +5745,7 @@
       },
       {
         "name": "Aidan Shanahan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -5761,7 +5761,7 @@
       },
       {
         "name": "Aidan Connolly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -5771,7 +5771,7 @@
       },
       {
         "name": "Ronan Carolan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -5816,7 +5816,7 @@
       },
       {
         "name": "Pascal Sheridan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -5826,7 +5826,7 @@
       },
       {
         "name": "Damien Reilly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -5842,7 +5842,7 @@
       },
       {
         "name": "Tomas Mannion",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -5852,7 +5852,7 @@
       },
       {
         "name": "Ray Silke",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -5897,7 +5897,7 @@
       },
       {
         "name": "Niall Finnegan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -5907,7 +5907,7 @@
       },
       {
         "name": "Val Daly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -5923,7 +5923,7 @@
       },
       {
         "name": "Ronan Quinn",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -5933,7 +5933,7 @@
       },
       {
         "name": "Anthony Rainbow",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -5978,7 +5978,7 @@
       },
       {
         "name": "Karl O'Dwyer",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -5988,7 +5988,7 @@
       },
       {
         "name": "Martin Lynch",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -6004,7 +6004,7 @@
       },
       {
         "name": "Mike Hassett",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -6014,7 +6014,7 @@
       },
       {
         "name": "Marc O Se",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -6059,7 +6059,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -6069,7 +6069,7 @@
       },
       {
         "name": "Maurice Fitzgerald",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 90
       }
     ]
@@ -6085,7 +6085,7 @@
       },
       {
         "name": "Mark O'Reilly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -6095,7 +6095,7 @@
       },
       {
         "name": "Cormac Murphy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -6140,7 +6140,7 @@
       },
       {
         "name": "Barry Callaghan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -6150,7 +6150,7 @@
       },
       {
         "name": "Evan Kelly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -6166,7 +6166,7 @@
       },
       {
         "name": "Mark O'Reilly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -6176,7 +6176,7 @@
       },
       {
         "name": "Cormac Murphy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -6221,7 +6221,7 @@
       },
       {
         "name": "Barry Callaghan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -6231,7 +6231,7 @@
       },
       {
         "name": "Evan Kelly",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -6247,7 +6247,7 @@
       },
       {
         "name": "Ciaran O'Sullivan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -6257,7 +6257,7 @@
       },
       {
         "name": "Mark O'Connor",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -6302,7 +6302,7 @@
       },
       {
         "name": "Colin Corkery",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -6312,7 +6312,7 @@
       },
       {
         "name": "Nicholas Murphy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -6328,7 +6328,7 @@
       },
       {
         "name": "Enda McNulty",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -6338,7 +6338,7 @@
       },
       {
         "name": "Aidan O'Rourke",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -6383,7 +6383,7 @@
       },
       {
         "name": "Barry O'Hagan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -6393,7 +6393,7 @@
       },
       {
         "name": "Paul Hearty",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -6409,7 +6409,7 @@
       },
       {
         "name": "Kenneth Mortimer",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -6419,7 +6419,7 @@
       },
       {
         "name": "Pat Holmes",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -6464,7 +6464,7 @@
       },
       {
         "name": "James Horan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -6474,7 +6474,7 @@
       },
       {
         "name": "TJ Kilgallon",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -6490,7 +6490,7 @@
       },
       {
         "name": "Killian Burns",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 76
       },
       {
@@ -6500,7 +6500,7 @@
       },
       {
         "name": "Barry O'Shea",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 74
       },
       {
@@ -6545,7 +6545,7 @@
       },
       {
         "name": "Maurice Fitzgerald",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 93
       },
       {
@@ -6555,7 +6555,7 @@
       },
       {
         "name": "Aodh\u00e1n MacGearailt",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 75
       }
     ]
@@ -6571,7 +6571,7 @@
       },
       {
         "name": "Tom\u00e1s Meehan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -6581,7 +6581,7 @@
       },
       {
         "name": "Declan Meehan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -6626,7 +6626,7 @@
       },
       {
         "name": "Matthew Clancy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 75
       },
       {
@@ -6636,7 +6636,7 @@
       },
       {
         "name": "Dessie Dolan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -6652,7 +6652,7 @@
       },
       {
         "name": "Kieran McCloy",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -6662,7 +6662,7 @@
       },
       {
         "name": "Sean Martin Lockhart",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -6707,7 +6707,7 @@
       },
       {
         "name": "Paddy Bradley",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -6717,7 +6717,7 @@
       },
       {
         "name": "Niall McCusker",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 75
       }
     ]
@@ -6733,7 +6733,7 @@
       },
       {
         "name": "Anthony Rainbow",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -6743,7 +6743,7 @@
       },
       {
         "name": "Ronan Quinn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 76
       },
       {
@@ -6788,7 +6788,7 @@
       },
       {
         "name": "Adrian Sweeney",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 76
       },
       {
@@ -6798,7 +6798,7 @@
       },
       {
         "name": "Declan Kerrigan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 74
       }
     ]
@@ -6814,7 +6814,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -6824,7 +6824,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -6869,7 +6869,7 @@
       },
       {
         "name": "Stephen O'Neill",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -6879,7 +6879,7 @@
       },
       {
         "name": "Brian McGuigan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -6895,7 +6895,7 @@
       },
       {
         "name": "Francie Bellew",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -6905,7 +6905,7 @@
       },
       {
         "name": "Enda McNulty",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -6950,7 +6950,7 @@
       },
       {
         "name": "Ronan Clarke",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -6960,7 +6960,7 @@
       },
       {
         "name": "Des Mackin",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 75
       }
     ]
@@ -6976,7 +6976,7 @@
       },
       {
         "name": "Kenneth Mortimer",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -6986,7 +6986,7 @@
       },
       {
         "name": "Pat Holmes",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -7031,7 +7031,7 @@
       },
       {
         "name": "Maurice Sheridan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -7041,7 +7041,7 @@
       },
       {
         "name": "James Gill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 75
       }
     ]
@@ -7057,7 +7057,7 @@
       },
       {
         "name": "Paddy Christie",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -7067,7 +7067,7 @@
       },
       {
         "name": "Paul Griffin",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -7112,7 +7112,7 @@
       },
       {
         "name": "Ray Cosgrove",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -7122,7 +7122,7 @@
       },
       {
         "name": "Ian Robertson",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -7138,7 +7138,7 @@
       },
       {
         "name": "Tom\u00e1s Meehan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -7148,7 +7148,7 @@
       },
       {
         "name": "Declan Meehan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -7193,7 +7193,7 @@
       },
       {
         "name": "Matthew Clancy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 75
       },
       {
@@ -7203,7 +7203,7 @@
       },
       {
         "name": "Dessie Dolan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -7219,7 +7219,7 @@
       },
       {
         "name": "Mark O'Reilly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -7229,7 +7229,7 @@
       },
       {
         "name": "Cormac Murphy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -7274,7 +7274,7 @@
       },
       {
         "name": "Ollie Murphy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -7284,7 +7284,7 @@
       },
       {
         "name": "Donal Curtis",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -7300,7 +7300,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 88
       },
       {
@@ -7310,7 +7310,7 @@
       },
       {
         "name": "Barry O'Shea",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 74
       },
       {
@@ -7355,7 +7355,7 @@
       },
       {
         "name": "Maurice Fitzgerald",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 92
       },
       {
@@ -7365,7 +7365,7 @@
       },
       {
         "name": "Aodh\u00e1n MacGearailt",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 75
       }
     ]
@@ -7381,7 +7381,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -7391,7 +7391,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -7436,7 +7436,7 @@
       },
       {
         "name": "Stephen O'Neill",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -7446,7 +7446,7 @@
       },
       {
         "name": "Brian McGuigan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -7462,7 +7462,7 @@
       },
       {
         "name": "Frankie Dolan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -7472,7 +7472,7 @@
       },
       {
         "name": "Ian Tiernan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 76
       },
       {
@@ -7517,7 +7517,7 @@
       },
       {
         "name": "Ger Heneghan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 77
       },
       {
@@ -7527,7 +7527,7 @@
       },
       {
         "name": "Dermot Earley Jr",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -7543,7 +7543,7 @@
       },
       {
         "name": "Paddy Christie",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -7553,7 +7553,7 @@
       },
       {
         "name": "Paul Griffin",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -7598,7 +7598,7 @@
       },
       {
         "name": "Ray Cosgrove",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -7608,7 +7608,7 @@
       },
       {
         "name": "Ian Robertson",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -7624,7 +7624,7 @@
       },
       {
         "name": "Francie Bellew",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -7634,7 +7634,7 @@
       },
       {
         "name": "Enda McNulty",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -7679,7 +7679,7 @@
       },
       {
         "name": "Ronan Clarke",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -7689,7 +7689,7 @@
       },
       {
         "name": "Des Mackin",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -7705,7 +7705,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 90
       },
       {
@@ -7715,7 +7715,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -7760,7 +7760,7 @@
       },
       {
         "name": "Maurice Fitzgerald",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 90
       },
       {
@@ -7770,7 +7770,7 @@
       },
       {
         "name": "Colm Cooper",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 90
       }
     ]
@@ -7786,7 +7786,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -7796,7 +7796,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -7841,7 +7841,7 @@
       },
       {
         "name": "Stephen O'Neill",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 89
       },
       {
@@ -7851,7 +7851,7 @@
       },
       {
         "name": "Brian McGuigan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 84
       }
     ]
@@ -7867,7 +7867,7 @@
       },
       {
         "name": "Barry Monaghan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -7877,7 +7877,7 @@
       },
       {
         "name": "Damien Diver",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -7922,7 +7922,7 @@
       },
       {
         "name": "Ciaran Bonner",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 77
       },
       {
@@ -7932,7 +7932,7 @@
       },
       {
         "name": "Christy Toye",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -7948,7 +7948,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 86
       },
       {
@@ -7958,7 +7958,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -8003,7 +8003,7 @@
       },
       {
         "name": "Stephen O'Neill",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 91
       },
       {
@@ -8013,7 +8013,7 @@
       },
       {
         "name": "Brian McGuigan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 85
       }
     ]
@@ -8029,7 +8029,7 @@
       },
       {
         "name": "Francie Bellew",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -8039,7 +8039,7 @@
       },
       {
         "name": "Enda McNulty",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -8084,7 +8084,7 @@
       },
       {
         "name": "Ronan Clarke",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -8094,7 +8094,7 @@
       },
       {
         "name": "Des Mackin",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 75
       }
     ]
@@ -8110,7 +8110,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 91
       },
       {
@@ -8120,7 +8120,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -8165,7 +8165,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 90
       },
       {
@@ -8175,7 +8175,7 @@
       },
       {
         "name": "John Crowley",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -8191,7 +8191,7 @@
       },
       {
         "name": "Tom Kelly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -8201,7 +8201,7 @@
       },
       {
         "name": "Cahir Healy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -8246,7 +8246,7 @@
       },
       {
         "name": "Donie Brennan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -8256,7 +8256,7 @@
       },
       {
         "name": "Kevin Fitzpatrick",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -8272,7 +8272,7 @@
       },
       {
         "name": "Sean Martin Lockhart",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -8282,7 +8282,7 @@
       },
       {
         "name": "Kieran McCloy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -8327,7 +8327,7 @@
       },
       {
         "name": "Geoffrey McGonigle",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -8337,7 +8337,7 @@
       },
       {
         "name": "Eoin Burns",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -8353,7 +8353,7 @@
       },
       {
         "name": "Marty McGrath",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -8363,7 +8363,7 @@
       },
       {
         "name": "Mark Brewster",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -8408,7 +8408,7 @@
       },
       {
         "name": "Adrian Treacy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -8418,7 +8418,7 @@
       },
       {
         "name": "Barry Owens",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -8434,7 +8434,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 92
       },
       {
@@ -8444,7 +8444,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -8489,7 +8489,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 91
       },
       {
@@ -8499,7 +8499,7 @@
       },
       {
         "name": "John Crowley",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -8515,7 +8515,7 @@
       },
       {
         "name": "Kenneth Mortimer",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -8525,7 +8525,7 @@
       },
       {
         "name": "Pat Holmes",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -8570,7 +8570,7 @@
       },
       {
         "name": "Maurice Sheridan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -8580,7 +8580,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -8596,7 +8596,7 @@
       },
       {
         "name": "Marty McGrath",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -8606,7 +8606,7 @@
       },
       {
         "name": "Mark Brewster",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -8651,7 +8651,7 @@
       },
       {
         "name": "Adrian Treacy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -8661,7 +8661,7 @@
       },
       {
         "name": "Barry Owens",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -8677,7 +8677,7 @@
       },
       {
         "name": "Mark Cahill",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -8687,7 +8687,7 @@
       },
       {
         "name": "S\u00e9amus Egan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -8732,7 +8732,7 @@
       },
       {
         "name": "John Keane",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -8742,7 +8742,7 @@
       },
       {
         "name": "Ger Heavin",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -8758,7 +8758,7 @@
       },
       {
         "name": "Tom Kelly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -8768,7 +8768,7 @@
       },
       {
         "name": "Cahir Healy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -8813,7 +8813,7 @@
       },
       {
         "name": "Donie Brennan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -8823,7 +8823,7 @@
       },
       {
         "name": "Kevin Fitzpatrick",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -8839,7 +8839,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 86
       },
       {
@@ -8849,7 +8849,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -8894,7 +8894,7 @@
       },
       {
         "name": "Owen Mulligan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -8904,7 +8904,7 @@
       },
       {
         "name": "Peter Canavan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 96
       }
     ]
@@ -8920,7 +8920,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 86
       },
       {
@@ -8930,7 +8930,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -8975,7 +8975,7 @@
       },
       {
         "name": "Owen Mulligan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -8985,7 +8985,7 @@
       },
       {
         "name": "Peter Canavan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 97
       }
     ]
@@ -9001,7 +9001,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 93
       },
       {
@@ -9011,7 +9011,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -9056,7 +9056,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 90
       },
       {
@@ -9066,7 +9066,7 @@
       },
       {
         "name": "John Crowley",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -9082,7 +9082,7 @@
       },
       {
         "name": "Francie Bellew",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -9092,7 +9092,7 @@
       },
       {
         "name": "Enda McNulty",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -9137,7 +9137,7 @@
       },
       {
         "name": "Ronan Clarke",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -9147,7 +9147,7 @@
       },
       {
         "name": "Des Mackin",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 74
       }
     ]
@@ -9163,7 +9163,7 @@
       },
       {
         "name": "Paddy Christie",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -9173,7 +9173,7 @@
       },
       {
         "name": "Paul Griffin",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -9218,7 +9218,7 @@
       },
       {
         "name": "Ray Cosgrove",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -9228,7 +9228,7 @@
       },
       {
         "name": "Collie Moran",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -9244,7 +9244,7 @@
       },
       {
         "name": "Derek Kavanagh",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -9254,7 +9254,7 @@
       },
       {
         "name": "Kieran O'Connor",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -9299,7 +9299,7 @@
       },
       {
         "name": "Donncha O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -9309,7 +9309,7 @@
       },
       {
         "name": "Colm O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -9325,7 +9325,7 @@
       },
       {
         "name": "Kenneth Mortimer",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -9335,7 +9335,7 @@
       },
       {
         "name": "Pat Holmes",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -9380,7 +9380,7 @@
       },
       {
         "name": "Maurice Sheridan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 77
       },
       {
@@ -9390,7 +9390,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -9406,7 +9406,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 93
       },
       {
@@ -9416,7 +9416,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -9461,7 +9461,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 89
       },
       {
@@ -9471,7 +9471,7 @@
       },
       {
         "name": "Kieran Donaghy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 93
       }
     ]
@@ -9487,7 +9487,7 @@
       },
       {
         "name": "Kenneth Mortimer",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -9497,7 +9497,7 @@
       },
       {
         "name": "Pat Holmes",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -9542,7 +9542,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -9552,7 +9552,7 @@
       },
       {
         "name": "Kevin O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -9568,7 +9568,7 @@
       },
       {
         "name": "Paddy Christie",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -9578,7 +9578,7 @@
       },
       {
         "name": "Paul Griffin",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -9623,7 +9623,7 @@
       },
       {
         "name": "Ray Cosgrove",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -9633,7 +9633,7 @@
       },
       {
         "name": "Collie Moran",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -9649,7 +9649,7 @@
       },
       {
         "name": "Derek Kavanagh",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -9659,7 +9659,7 @@
       },
       {
         "name": "Noel O'Leary",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -9704,7 +9704,7 @@
       },
       {
         "name": "Donncha O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -9714,7 +9714,7 @@
       },
       {
         "name": "Colm O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -9730,7 +9730,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 93
       },
       {
@@ -9740,7 +9740,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -9785,7 +9785,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -9795,7 +9795,7 @@
       },
       {
         "name": "Kieran Donaghy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 94
       }
     ]
@@ -9811,7 +9811,7 @@
       },
       {
         "name": "Ray Carey",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -9821,7 +9821,7 @@
       },
       {
         "name": "Noel O'Leary",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -9866,7 +9866,7 @@
       },
       {
         "name": "Donncha O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -9876,7 +9876,7 @@
       },
       {
         "name": "Colm O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -9892,7 +9892,7 @@
       },
       {
         "name": "Mark O'Reilly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -9902,7 +9902,7 @@
       },
       {
         "name": "Cormac Murphy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -9947,7 +9947,7 @@
       },
       {
         "name": "Ollie Murphy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -9957,7 +9957,7 @@
       },
       {
         "name": "Donal Curtis",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 75
       }
     ]
@@ -9973,7 +9973,7 @@
       },
       {
         "name": "Paddy Christie",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -9983,7 +9983,7 @@
       },
       {
         "name": "Paul Griffin",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -10028,7 +10028,7 @@
       },
       {
         "name": "Ray Cosgrove",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -10038,7 +10038,7 @@
       },
       {
         "name": "Collie Moran",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -10054,7 +10054,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -10064,7 +10064,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -10109,7 +10109,7 @@
       },
       {
         "name": "Owen Mulligan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -10119,7 +10119,7 @@
       },
       {
         "name": "Martin Penrose",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -10135,7 +10135,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 92
       },
       {
@@ -10145,7 +10145,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -10190,7 +10190,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -10200,7 +10200,7 @@
       },
       {
         "name": "Kieran Donaghy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 93
       }
     ]
@@ -10216,7 +10216,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -10226,7 +10226,7 @@
       },
       {
         "name": "Ger Brady",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -10271,7 +10271,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -10281,7 +10281,7 @@
       },
       {
         "name": "Kevin O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -10297,7 +10297,7 @@
       },
       {
         "name": "Finian Hanley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -10307,7 +10307,7 @@
       },
       {
         "name": "Declan Meehan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -10352,7 +10352,7 @@
       },
       {
         "name": "Derek Savage",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -10362,7 +10362,7 @@
       },
       {
         "name": "Kieran Fitzgerald",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -10378,7 +10378,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 92
       },
       {
@@ -10388,7 +10388,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -10433,7 +10433,7 @@
       },
       {
         "name": "Mike Frank Russell",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -10443,7 +10443,7 @@
       },
       {
         "name": "Kieran Donaghy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 93
       }
     ]
@@ -10459,7 +10459,7 @@
       },
       {
         "name": "Ray Carey",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -10469,7 +10469,7 @@
       },
       {
         "name": "Noel O'Leary",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -10514,7 +10514,7 @@
       },
       {
         "name": "Donncha O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -10524,7 +10524,7 @@
       },
       {
         "name": "Colm O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -10540,7 +10540,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -10550,7 +10550,7 @@
       },
       {
         "name": "Paul Griffin",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -10595,7 +10595,7 @@
       },
       {
         "name": "Bernard Brogan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -10605,7 +10605,7 @@
       },
       {
         "name": "Collie Moran",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -10621,7 +10621,7 @@
       },
       {
         "name": "Mark O'Reilly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -10631,7 +10631,7 @@
       },
       {
         "name": "Cormac Murphy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -10676,7 +10676,7 @@
       },
       {
         "name": "Ollie Murphy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 80
       },
       {
@@ -10686,7 +10686,7 @@
       },
       {
         "name": "Joe Sheridan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -10702,7 +10702,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -10712,7 +10712,7 @@
       },
       {
         "name": "Ger Brady",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -10757,7 +10757,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -10767,7 +10767,7 @@
       },
       {
         "name": "Trevor Mortimer",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -10783,7 +10783,7 @@
       },
       {
         "name": "Ray Carey",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -10793,7 +10793,7 @@
       },
       {
         "name": "Noel O'Leary",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 86
       },
       {
@@ -10838,7 +10838,7 @@
       },
       {
         "name": "Donncha O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -10848,7 +10848,7 @@
       },
       {
         "name": "Colm O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -10864,7 +10864,7 @@
       },
       {
         "name": "Declan Rooney",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -10874,7 +10874,7 @@
       },
       {
         "name": "Conor Garvey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 78
       },
       {
@@ -10919,7 +10919,7 @@
       },
       {
         "name": "Danny Hughes",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -10929,7 +10929,7 @@
       },
       {
         "name": "James McCartan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -10945,7 +10945,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -10955,7 +10955,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 87
       },
       {
@@ -11000,7 +11000,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -11010,7 +11010,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 85
       }
     ]
@@ -11026,7 +11026,7 @@
       },
       {
         "name": "Mark O'Reilly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -11036,7 +11036,7 @@
       },
       {
         "name": "Cormac Murphy",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 77
       },
       {
@@ -11081,7 +11081,7 @@
       },
       {
         "name": "Ollie Murphy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 79
       },
       {
@@ -11091,7 +11091,7 @@
       },
       {
         "name": "Brian Farrell",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 76
       }
     ]
@@ -11107,7 +11107,7 @@
       },
       {
         "name": "Ryan McMenamin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -11117,7 +11117,7 @@
       },
       {
         "name": "Conor Gormley",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -11162,7 +11162,7 @@
       },
       {
         "name": "Owen Mulligan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -11172,7 +11172,7 @@
       },
       {
         "name": "Martin Penrose",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -11188,7 +11188,7 @@
       },
       {
         "name": "Emmet Bolton",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -11198,7 +11198,7 @@
       },
       {
         "name": "Ronan Quinn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 76
       },
       {
@@ -11243,7 +11243,7 @@
       },
       {
         "name": "Tom\u00e1s O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 81
       },
       {
@@ -11253,7 +11253,7 @@
       },
       {
         "name": "Alan Smith",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -11269,7 +11269,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -11279,7 +11279,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 90
       },
       {
@@ -11324,7 +11324,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -11334,7 +11334,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 88
       }
     ]
@@ -11350,7 +11350,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 91
       },
       {
@@ -11360,7 +11360,7 @@
       },
       {
         "name": "Killian Young",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -11405,7 +11405,7 @@
       },
       {
         "name": "James O'Donoghue",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -11415,7 +11415,7 @@
       },
       {
         "name": "Kieran Donaghy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 92
       }
     ]
@@ -11431,7 +11431,7 @@
       },
       {
         "name": "Eamonn McGee",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -11441,7 +11441,7 @@
       },
       {
         "name": "Paddy McGrath",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -11486,7 +11486,7 @@
       },
       {
         "name": "Patrick McBrearty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -11496,7 +11496,7 @@
       },
       {
         "name": "Martin McElhinney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -11512,7 +11512,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 86
       },
       {
@@ -11522,7 +11522,7 @@
       },
       {
         "name": "Kevin Keane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -11567,7 +11567,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -11577,7 +11577,7 @@
       },
       {
         "name": "Alan Freeman",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -11593,7 +11593,7 @@
       },
       {
         "name": "Ray Carey",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 77
       },
       {
@@ -11603,7 +11603,7 @@
       },
       {
         "name": "Noel O'Leary",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -11648,7 +11648,7 @@
       },
       {
         "name": "Donncha O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -11658,7 +11658,7 @@
       },
       {
         "name": "Colm O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -11674,7 +11674,7 @@
       },
       {
         "name": "Eamonn McGee",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -11684,7 +11684,7 @@
       },
       {
         "name": "Paddy McGrath",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -11729,7 +11729,7 @@
       },
       {
         "name": "Patrick McBrearty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -11739,7 +11739,7 @@
       },
       {
         "name": "Martin McElhinney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -11755,7 +11755,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 87
       },
       {
@@ -11765,7 +11765,7 @@
       },
       {
         "name": "Kevin Keane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -11810,7 +11810,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -11820,7 +11820,7 @@
       },
       {
         "name": "Alan Freeman",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -11836,7 +11836,7 @@
       },
       {
         "name": "Ray Carey",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 76
       },
       {
@@ -11846,7 +11846,7 @@
       },
       {
         "name": "Noel O'Leary",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -11891,7 +11891,7 @@
       },
       {
         "name": "Donncha O'Connor",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -11901,7 +11901,7 @@
       },
       {
         "name": "Colm O'Neill",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -11917,7 +11917,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -11927,7 +11927,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 90
       },
       {
@@ -11972,7 +11972,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -11982,7 +11982,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 88
       }
     ]
@@ -11998,7 +11998,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -12008,7 +12008,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 90
       },
       {
@@ -12053,7 +12053,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -12063,7 +12063,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 88
       }
     ]
@@ -12079,7 +12079,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 87
       },
       {
@@ -12089,7 +12089,7 @@
       },
       {
         "name": "Kevin Keane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -12134,7 +12134,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -12144,7 +12144,7 @@
       },
       {
         "name": "Alan Freeman",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -12160,7 +12160,7 @@
       },
       {
         "name": "Eamonn McGee",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -12170,7 +12170,7 @@
       },
       {
         "name": "Paddy McGrath",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -12215,7 +12215,7 @@
       },
       {
         "name": "Patrick McBrearty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -12225,7 +12225,7 @@
       },
       {
         "name": "Martin McElhinney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -12241,7 +12241,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 90
       },
       {
@@ -12251,7 +12251,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -12296,7 +12296,7 @@
       },
       {
         "name": "James O'Donoghue",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -12306,7 +12306,7 @@
       },
       {
         "name": "Kieran Donaghy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 91
       }
     ]
@@ -12322,7 +12322,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 90
       },
       {
@@ -12332,7 +12332,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -12377,7 +12377,7 @@
       },
       {
         "name": "James O'Donoghue",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -12387,7 +12387,7 @@
       },
       {
         "name": "Kieran Donaghy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 91
       }
     ]
@@ -12403,7 +12403,7 @@
       },
       {
         "name": "Eamonn McGee",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -12413,7 +12413,7 @@
       },
       {
         "name": "Paddy McGrath",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -12458,7 +12458,7 @@
       },
       {
         "name": "Patrick McBrearty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -12468,7 +12468,7 @@
       },
       {
         "name": "Martin McElhinney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -12484,7 +12484,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 87
       },
       {
@@ -12494,7 +12494,7 @@
       },
       {
         "name": "Kevin Keane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -12539,7 +12539,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -12549,7 +12549,7 @@
       },
       {
         "name": "Donal Vaughan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -12565,7 +12565,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -12575,7 +12575,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 90
       },
       {
@@ -12620,7 +12620,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -12630,7 +12630,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -12646,7 +12646,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -12656,7 +12656,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 90
       },
       {
@@ -12701,7 +12701,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -12711,7 +12711,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -12727,7 +12727,7 @@
       },
       {
         "name": "Marc \u00d3 S\u00e9",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 89
       },
       {
@@ -12737,7 +12737,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -12782,7 +12782,7 @@
       },
       {
         "name": "Colm Cooper",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 95
       },
       {
@@ -12792,7 +12792,7 @@
       },
       {
         "name": "Declan O'Sullivan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 85
       }
     ]
@@ -12808,7 +12808,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 87
       },
       {
@@ -12818,7 +12818,7 @@
       },
       {
         "name": "Kevin Keane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -12863,7 +12863,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -12873,7 +12873,7 @@
       },
       {
         "name": "Jason Doherty",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -12889,7 +12889,7 @@
       },
       {
         "name": "Alan Campbell",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 78
       },
       {
@@ -12899,7 +12899,7 @@
       },
       {
         "name": "Colin O'Riordan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -12944,7 +12944,7 @@
       },
       {
         "name": "Philip Austin",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -12954,7 +12954,7 @@
       },
       {
         "name": "Jimmy Feehan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -12970,7 +12970,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -12980,7 +12980,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 90
       },
       {
@@ -13025,7 +13025,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -13035,7 +13035,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -13051,7 +13051,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 87
       },
       {
@@ -13061,7 +13061,7 @@
       },
       {
         "name": "Kevin Keane",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 79
       },
       {
@@ -13106,7 +13106,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -13116,7 +13116,7 @@
       },
       {
         "name": "Fergal Boland",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -13132,7 +13132,7 @@
       },
       {
         "name": "Colm Cavanagh",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -13142,7 +13142,7 @@
       },
       {
         "name": "P\u00e1draig Hampsey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -13187,7 +13187,7 @@
       },
       {
         "name": "Cathal McShane",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -13197,7 +13197,7 @@
       },
       {
         "name": "Niall Sludden",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -13213,7 +13213,7 @@
       },
       {
         "name": "Fionn Fitzgerald",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -13223,7 +13223,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -13268,7 +13268,7 @@
       },
       {
         "name": "Colm Cooper",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 94
       },
       {
@@ -13278,7 +13278,7 @@
       },
       {
         "name": "Bryan Sheehan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -13294,7 +13294,7 @@
       },
       {
         "name": "Michael Fitzsimons",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -13304,7 +13304,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 90
       },
       {
@@ -13349,7 +13349,7 @@
       },
       {
         "name": "Kevin McManamon",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -13359,7 +13359,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -13375,7 +13375,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 86
       },
       {
@@ -13385,7 +13385,7 @@
       },
       {
         "name": "Colm Boyle",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -13430,7 +13430,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -13440,7 +13440,7 @@
       },
       {
         "name": "Fergal Boland",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 79
       }
     ]
@@ -13456,7 +13456,7 @@
       },
       {
         "name": "Fionn Fitzgerald",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -13466,7 +13466,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -13511,7 +13511,7 @@
       },
       {
         "name": "Colm Cooper",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 93
       },
       {
@@ -13521,7 +13521,7 @@
       },
       {
         "name": "Paul Geaney",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -13537,7 +13537,7 @@
       },
       {
         "name": "Colm Cavanagh",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -13547,7 +13547,7 @@
       },
       {
         "name": "P\u00e1draig Hampsey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -13592,7 +13592,7 @@
       },
       {
         "name": "Cathal McShane",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -13602,7 +13602,7 @@
       },
       {
         "name": "Niall Sludden",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -13618,7 +13618,7 @@
       },
       {
         "name": "Ryan Wylie",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -13628,7 +13628,7 @@
       },
       {
         "name": "Drew Wylie",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -13673,7 +13673,7 @@
       },
       {
         "name": "Jack McCarron",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -13683,7 +13683,7 @@
       },
       {
         "name": "Neil McAdam",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -13699,7 +13699,7 @@
       },
       {
         "name": "Eoin Murchan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -13709,7 +13709,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 89
       },
       {
@@ -13754,7 +13754,7 @@
       },
       {
         "name": "Cormac Costello",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -13764,7 +13764,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 89
       }
     ]
@@ -13780,7 +13780,7 @@
       },
       {
         "name": "Colm Cavanagh",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -13790,7 +13790,7 @@
       },
       {
         "name": "P\u00e1draig Hampsey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -13835,7 +13835,7 @@
       },
       {
         "name": "Cathal McShane",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -13845,7 +13845,7 @@
       },
       {
         "name": "Niall Sludden",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -13861,7 +13861,7 @@
       },
       {
         "name": "Fionn Fitzgerald",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -13871,7 +13871,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -13916,7 +13916,7 @@
       },
       {
         "name": "David Clifford",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 93
       },
       {
@@ -13926,7 +13926,7 @@
       },
       {
         "name": "Killian Spillane",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -13942,7 +13942,7 @@
       },
       {
         "name": "Ryan Wylie",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -13952,7 +13952,7 @@
       },
       {
         "name": "Drew Wylie",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -13997,7 +13997,7 @@
       },
       {
         "name": "Jack McCarron",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -14007,7 +14007,7 @@
       },
       {
         "name": "Neil McAdam",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 78
       }
     ]
@@ -14023,7 +14023,7 @@
       },
       {
         "name": "Eoin Murchan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -14033,7 +14033,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 88
       },
       {
@@ -14078,7 +14078,7 @@
       },
       {
         "name": "Cormac Costello",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -14088,7 +14088,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 88
       }
     ]
@@ -14104,7 +14104,7 @@
       },
       {
         "name": "Jason Foley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -14114,7 +14114,7 @@
       },
       {
         "name": "Gavin White",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -14159,7 +14159,7 @@
       },
       {
         "name": "David Clifford",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 95
       },
       {
@@ -14169,7 +14169,7 @@
       },
       {
         "name": "Killian Spillane",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -14185,7 +14185,7 @@
       },
       {
         "name": "Keith Higgins",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -14195,7 +14195,7 @@
       },
       {
         "name": "Colm Boyle",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -14240,7 +14240,7 @@
       },
       {
         "name": "Andy Moran",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -14250,7 +14250,7 @@
       },
       {
         "name": "Ryan O'Donoghue",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -14266,7 +14266,7 @@
       },
       {
         "name": "Michael McKernan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 81
       },
       {
@@ -14276,7 +14276,7 @@
       },
       {
         "name": "P\u00e1draig Hampsey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -14321,7 +14321,7 @@
       },
       {
         "name": "Cathal McShane",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -14331,7 +14331,7 @@
       },
       {
         "name": "Niall Sludden",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -14347,7 +14347,7 @@
       },
       {
         "name": "Eamonn McGee",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -14357,7 +14357,7 @@
       },
       {
         "name": "Paddy McGrath",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -14402,7 +14402,7 @@
       },
       {
         "name": "Patrick McBrearty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -14412,7 +14412,7 @@
       },
       {
         "name": "Jamie Brennan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -14428,7 +14428,7 @@
       },
       {
         "name": "Eoin Murchan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -14438,7 +14438,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 87
       },
       {
@@ -14483,7 +14483,7 @@
       },
       {
         "name": "Cormac Costello",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -14493,7 +14493,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 87
       }
     ]
@@ -14509,7 +14509,7 @@
       },
       {
         "name": "Ois\u00edn Mullin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -14519,7 +14519,7 @@
       },
       {
         "name": "Colm Boyle",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -14564,7 +14564,7 @@
       },
       {
         "name": "Tommy Conroy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -14574,7 +14574,7 @@
       },
       {
         "name": "Ryan O'Donoghue",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -14590,7 +14590,7 @@
       },
       {
         "name": "Alan Campbell",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 79
       },
       {
@@ -14600,7 +14600,7 @@
       },
       {
         "name": "Colin O'Riordan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -14645,7 +14645,7 @@
       },
       {
         "name": "Philip Austin",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 78
       },
       {
@@ -14655,7 +14655,7 @@
       },
       {
         "name": "Jimmy Feehan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 77
       }
     ]
@@ -14671,7 +14671,7 @@
       },
       {
         "name": "Michael McKernan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -14681,7 +14681,7 @@
       },
       {
         "name": "P\u00e1draig Hampsey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 85
       },
       {
@@ -14726,7 +14726,7 @@
       },
       {
         "name": "Cathal McShane",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -14736,7 +14736,7 @@
       },
       {
         "name": "Mark Bradley",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -14752,7 +14752,7 @@
       },
       {
         "name": "Ois\u00edn Mullin",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 85
       },
       {
@@ -14762,7 +14762,7 @@
       },
       {
         "name": "Colm Boyle",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -14807,7 +14807,7 @@
       },
       {
         "name": "Tommy Conroy",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 84
       },
       {
@@ -14817,7 +14817,7 @@
       },
       {
         "name": "Ryan O'Donoghue",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -14833,7 +14833,7 @@
       },
       {
         "name": "Jason Foley",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -14843,7 +14843,7 @@
       },
       {
         "name": "Gavin White",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 84
       },
       {
@@ -14888,7 +14888,7 @@
       },
       {
         "name": "David Clifford",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 96
       },
       {
@@ -14898,7 +14898,7 @@
       },
       {
         "name": "Killian Spillane",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -14914,7 +14914,7 @@
       },
       {
         "name": "Eoin Murchan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -14924,7 +14924,7 @@
       },
       {
         "name": "Philly McMahon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 86
       },
       {
@@ -14969,7 +14969,7 @@
       },
       {
         "name": "Cormac Costello",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 85
       },
       {
@@ -14979,7 +14979,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 86
       }
     ]
@@ -14995,7 +14995,7 @@
       },
       {
         "name": "Graham O'Sullivan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -15005,7 +15005,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -15050,7 +15050,7 @@
       },
       {
         "name": "Tony Brosnan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -15060,7 +15060,7 @@
       },
       {
         "name": "Killian Spillane",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -15076,7 +15076,7 @@
       },
       {
         "name": "Se\u00e1n Kelly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -15086,7 +15086,7 @@
       },
       {
         "name": "Jack Glynn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -15131,7 +15131,7 @@
       },
       {
         "name": "Damien Comer",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -15141,7 +15141,7 @@
       },
       {
         "name": "Kieran Molloy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -15157,7 +15157,7 @@
       },
       {
         "name": "Chrissy McKaigue",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -15167,7 +15167,7 @@
       },
       {
         "name": "Conor McCluskey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -15212,7 +15212,7 @@
       },
       {
         "name": "Cormac O'Doherty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 82
       },
       {
@@ -15222,7 +15222,7 @@
       },
       {
         "name": "Lachlan Murray",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 80
       }
     ]
@@ -15238,7 +15238,7 @@
       },
       {
         "name": "Eoin Murchan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -15248,7 +15248,7 @@
       },
       {
         "name": "Lee Gannon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -15293,7 +15293,7 @@
       },
       {
         "name": "Cormac Costello",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -15303,7 +15303,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 86
       }
     ]
@@ -15319,7 +15319,7 @@
       },
       {
         "name": "Eoin Murchan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -15329,7 +15329,7 @@
       },
       {
         "name": "Lee Gannon",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 81
       },
       {
@@ -15374,7 +15374,7 @@
       },
       {
         "name": "Cormac Costello",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 86
       },
       {
@@ -15384,7 +15384,7 @@
       },
       {
         "name": "Dean Rock",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 86
       }
     ]
@@ -15400,7 +15400,7 @@
       },
       {
         "name": "Graham O'Sullivan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -15410,7 +15410,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -15455,7 +15455,7 @@
       },
       {
         "name": "Tony Brosnan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -15465,7 +15465,7 @@
       },
       {
         "name": "Killian Spillane",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -15481,7 +15481,7 @@
       },
       {
         "name": "Se\u00e1n Kelly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -15491,7 +15491,7 @@
       },
       {
         "name": "Jack Glynn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -15536,7 +15536,7 @@
       },
       {
         "name": "Damien Comer",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -15546,7 +15546,7 @@
       },
       {
         "name": "Kieran Molloy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 83
       }
     ]
@@ -15562,7 +15562,7 @@
       },
       {
         "name": "Chrissy McKaigue",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 84
       },
       {
@@ -15572,7 +15572,7 @@
       },
       {
         "name": "Conor McCluskey",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -15617,7 +15617,7 @@
       },
       {
         "name": "Cormac O'Doherty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -15627,7 +15627,7 @@
       },
       {
         "name": "Lachlan Murray",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -15643,7 +15643,7 @@
       },
       {
         "name": "Aidan Forker",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -15653,7 +15653,7 @@
       },
       {
         "name": "Paddy Burns",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -15698,7 +15698,7 @@
       },
       {
         "name": "Andrew Murnin",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -15708,7 +15708,7 @@
       },
       {
         "name": "Ross McQuillan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
@@ -15724,7 +15724,7 @@
       },
       {
         "name": "Se\u00e1n Kelly",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 83
       },
       {
@@ -15734,7 +15734,7 @@
       },
       {
         "name": "Jack Glynn",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 83
       },
       {
@@ -15779,7 +15779,7 @@
       },
       {
         "name": "Damien Comer",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 88
       },
       {
@@ -15789,7 +15789,7 @@
       },
       {
         "name": "Kieran Molloy",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 84
       }
     ]
@@ -15805,7 +15805,7 @@
       },
       {
         "name": "Graham O'Sullivan",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 80
       },
       {
@@ -15815,7 +15815,7 @@
       },
       {
         "name": "Tom O'Sullivan",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 82
       },
       {
@@ -15860,7 +15860,7 @@
       },
       {
         "name": "Tony Brosnan",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 83
       },
       {
@@ -15870,7 +15870,7 @@
       },
       {
         "name": "Killian Spillane",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 81
       }
     ]
@@ -15886,7 +15886,7 @@
       },
       {
         "name": "Caolan McGonagle",
-        "position": "RFB",
+        "position": "RCB",
         "rating": 82
       },
       {
@@ -15896,7 +15896,7 @@
       },
       {
         "name": "Paddy McGrath",
-        "position": "LFB",
+        "position": "LCB",
         "rating": 80
       },
       {
@@ -15941,7 +15941,7 @@
       },
       {
         "name": "Patrick McBrearty",
-        "position": "RFF",
+        "position": "RCF",
         "rating": 87
       },
       {
@@ -15951,7 +15951,7 @@
       },
       {
         "name": "Jamie Brennan",
-        "position": "LFF",
+        "position": "LCF",
         "rating": 82
       }
     ]
