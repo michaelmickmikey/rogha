@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#121620"/>
+  <rect x="80" y="60" width="1040" height="510" fill="#191e2e" rx="12"/>
+  <rect x="556" y="148" width="88" height="3" fill="#c9a84c"/>
+  <text x="600" y="144" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="400" letter-spacing="8" fill="#c9a84c">GAA · DREAM XV</text>
+  <text x="600" y="358" text-anchor="middle" font-family="Georgia, serif" font-size="188" font-weight="700" fill="#edeae2">Rogha</text>
+  <rect x="556" y="376" width="88" height="3" fill="#c9a84c"/>
+  <text x="600" y="424" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="400" letter-spacing="10" fill="#8892b0">ROAD TO SAM</text>
+  <text x="600" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="400" letter-spacing="4" fill="#6b7494">197 TEAMS · 1980–2024 · ALL-IRELAND CHAMPIONSHIPS</text>
+</svg>
