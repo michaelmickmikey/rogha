@@ -1104,7 +1104,7 @@ body {
 
   /* Intro */
   .intro-box h1 { font-size: 3.2rem; }
-  #screen-intro::before { font-size: 18rem; }
+  #screen-intro::before { display: none; }
 
   /* Game screen — vertical stack */
   #screen-game {
