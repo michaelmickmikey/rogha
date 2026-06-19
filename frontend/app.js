@@ -183,9 +183,15 @@ function pickPlayer(player) {
 
   document.querySelectorAll('.squad-card').forEach(c => c.classList.add('picked'));
   document.getElementById('pick-count').textContent = myTeam.length;
+  updateMobPickCount(myTeam.length);
+
+  // briefly show pitch on mobile so user sees their pick land
+  if (window.innerWidth <= 768) setMobileTab('pitch');
+  setTimeout(() => { if (window.innerWidth <= 768) setMobileTab('squad'); }, 1000);
 
   if (myTeam.length >= 15) {
     document.getElementById('sim-btn').disabled = false;
+    document.getElementById('sim-btn-mob').disabled = false;
     document.getElementById('spin-status').textContent = '✓ Your XV is complete';
     document.getElementById('squad-list').innerHTML = '';
     document.getElementById('spin-county').textContent = 'Done';
@@ -473,8 +479,10 @@ function resetGame() {
   filledSlots = {};
   rerollsLeft = 3;
   document.getElementById('pick-count').textContent = '0';
+  updateMobPickCount(0);
   document.getElementById('sim-btn').disabled = true;
   document.getElementById('sim-btn').textContent = 'Simulate The Run →';
+  document.getElementById('sim-btn-mob').disabled = true;
   document.getElementById('result-breakdown').innerHTML = '';
   document.getElementById('my-squad-list').innerHTML = '';
   document.getElementById('overall-score').textContent = '—';
@@ -485,6 +493,22 @@ function resetGame() {
   setRerollBtns(false);
 }
 
+// ── MOBILE TABS ───────────────────────────────────────────────────────────────
+function setMobileTab(tab) {
+  document.querySelectorAll('.mob-tab').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
+  document.getElementById('team-panel').classList.toggle('mob-hidden', tab !== 'squad');
+  document.getElementById('pitch-panel').classList.toggle('mob-hidden', tab !== 'pitch');
+}
+
+document.querySelectorAll('.mob-tab').forEach(btn => {
+  btn.addEventListener('click', () => setMobileTab(btn.dataset.tab));
+});
+
+function updateMobPickCount(n) {
+  const el = document.getElementById('mob-pick-count');
+  if (el) el.textContent = n > 0 ? `${n}/15` : '';
+}
+
 // ── INIT ──────────────────────────────────────────────────────────────────────
 document.getElementById('start-btn').addEventListener('click', () => {
   resetGame();
@@ -493,6 +517,7 @@ document.getElementById('start-btn').addEventListener('click', () => {
 });
 
 document.getElementById('sim-btn').addEventListener('click', startSimulation);
+document.getElementById('sim-btn-mob').addEventListener('click', startSimulation);
 
 document.getElementById('sim-next-btn').addEventListener('click', revealNextMatch);
 

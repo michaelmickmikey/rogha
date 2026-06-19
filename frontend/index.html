@@ -27,6 +27,13 @@
 
 <!-- SCREEN 2: SPIN / PICK -->
 <div id="screen-game" class="screen">
+
+  <!-- mobile tab bar (hidden on desktop) -->
+  <div id="mobile-tabs">
+    <button class="mob-tab active" data-tab="squad">Squad</button>
+    <button class="mob-tab" data-tab="pitch">Pitch <span id="mob-pick-count"></span></button>
+  </div>
+
   <div id="game-layout">
 
     <!-- LEFT: drawn team + player list -->
@@ -56,6 +63,10 @@
 
       <div id="squad-header">PICK A PLAYER</div>
       <div id="squad-list"></div>
+      <!-- simulate button visible on mobile only -->
+      <div id="mob-sim-footer">
+        <button id="sim-btn-mob" class="btn-primary" disabled>Simulate The Run →</button>
+      </div>
     </div>
 
     <!-- CENTRE: pitch -->

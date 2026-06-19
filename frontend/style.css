@@ -1095,3 +1095,168 @@ body {
 /* ── SPIN ANIMATION ───────────────────────────────────────────────────────── */
 .spinning #county-display { opacity: 0.4; }
 .spinning #spin-year      { opacity: 0.4; }
+
+/* ── MOBILE ───────────────────────────────────────────────────────────────── */
+#mobile-tabs { display: none; }
+#mob-sim-footer { display: none; }
+
+@media (max-width: 768px) {
+
+  /* Intro */
+  .intro-box h1 { font-size: 3.2rem; }
+  #screen-intro::before { font-size: 18rem; }
+
+  /* Game screen — vertical stack */
+  #screen-game {
+    flex-direction: column;
+    height: 100dvh;
+  }
+
+  /* Tab bar */
+  #mobile-tabs {
+    display: flex;
+    flex-shrink: 0;
+    border-bottom: 1px solid var(--border);
+    background: var(--panel);
+  }
+
+  .mob-tab {
+    flex: 1;
+    padding: 0.7rem;
+    background: none;
+    border: none;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s;
+  }
+
+  .mob-tab.active {
+    color: var(--gold);
+    border-bottom-color: var(--gold);
+  }
+
+  #mob-pick-count {
+    display: inline-block;
+    background: var(--gold);
+    color: #0e1018;
+    border-radius: 10px;
+    font-size: 0.6rem;
+    padding: 0.05rem 0.35rem;
+    margin-left: 0.3rem;
+    font-weight: 700;
+  }
+
+  /* Game layout stacks */
+  #game-layout {
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  /* Team panel: full width, hidden when on pitch tab */
+  #team-panel {
+    width: 100%;
+    height: 100%;
+    border-right: none;
+    border-bottom: none;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #team-panel.mob-hidden { display: none; }
+
+  /* Pitch panel: full width, hidden when on squad tab */
+  #pitch-panel {
+    width: 100%;
+    height: 100%;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #pitch-panel.mob-hidden { display: none; }
+
+  /* Your XV panel: shown below pitch on pitch tab, not as side panel */
+  #squad-panel {
+    display: none;
+  }
+
+  /* Pitch slots — smaller to fit mobile screen */
+  .slot-content {
+    width: 56px;
+    height: 36px;
+    border-radius: 18px;
+  }
+
+  .pitch-line { gap: 0.35rem; }
+  .pitch-line-mid { gap: 2rem; }
+
+  .pitch-slot { gap: 2px; }
+
+  .slot-content.filled .s-name { font-size: 0.52rem; max-width: 52px; }
+  .slot-content.filled .s-county { font-size: 0.42rem; }
+  .slot-content.filled .s-rating { font-size: 0.6rem; }
+
+  .slot-pos { font-size: 0.42rem; }
+
+  /* Drawn header — compact */
+  #drawn-header { padding: 0.75rem 1rem 0.6rem; }
+  #spin-county { font-size: 1.35rem; }
+
+  /* Re-roll section — compact */
+  #reroll-section { padding: 0.6rem 1rem; }
+
+  /* Squad list fills remaining space */
+  #squad-list { flex: 1; min-height: 0; }
+
+  #mob-sim-footer { display: block; }
+
+  /* Mobile simulate button */
+  #mob-sim-footer {
+    padding: 0.6rem 1rem;
+    border-top: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  #mob-sim-footer .btn-primary {
+    width: 100%;
+    padding: 0.65rem;
+    font-size: 0.72rem;
+  }
+
+  /* Squad panel footer — show pick count + simulate btn inline */
+  #squad-panel-footer {
+    display: block;
+    padding: 0.6rem 1rem;
+    border-top: 1px solid var(--border);
+  }
+
+  #squad-panel-footer .btn-primary {
+    font-size: 0.7rem;
+    padding: 0.6rem 1rem;
+  }
+
+  /* Move the footer into the team panel on mobile */
+  #team-panel #squad-panel-footer { display: block; }
+
+  /* Sim screen */
+  #sim-wrap { padding: 1.5rem 1rem 2rem; }
+  #sim-heading { font-size: 2rem; }
+
+  #sim-live-board { padding: 0.8rem 1rem; }
+  .live-score { font-size: 1.8rem; }
+  .live-timer { font-size: 1.2rem; }
+
+  .sim-match-header { flex-wrap: wrap; gap: 0.5rem; padding: 0.7rem 0.8rem; }
+  .sim-round-label { width: auto; }
+  .sim-score-block { width: 100%; justify-content: flex-end; }
+
+  /* Result screen */
+  #result-box { padding: 1.5rem 1rem; }
+}
