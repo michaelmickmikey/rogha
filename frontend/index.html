@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rogha — Road to Sam</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- SCREEN 1: INTRO -->
+<div id="screen-intro" class="screen active">
+  <div class="intro-box">
+    <div class="intro-logo">GAA · Dream XV</div>
+    <h1>Rogha</h1>
+    <div class="intro-divider"></div>
+    <p class="intro-subtitle">Road to Sam</p>
+    <p>A historic county team is drawn each round.<br>Pick <strong>one player</strong> to build your XV — then simulate the road to the Sam Maguire.</p>
+    <button id="start-btn" class="btn-primary">Begin</button>
+    <div class="intro-meta">117 teams · 2000–2024 · All-Ireland championships</div>
+    <div id="site-footer">© SNALL 2026</div>
+  </div>
+</div>
+
+<!-- SCREEN 2: SPIN / PICK -->
+<div id="screen-game" class="screen">
+  <div id="game-layout">
+
+    <!-- LEFT: drawn team + player list -->
+    <div id="team-panel">
+
+      <div id="drawn-header">
+        <div class="drawn-label">DRAWN</div>
+        <div id="county-display">
+          <span id="county-color-dot"></span>
+          <span id="spin-county">—</span>
+        </div>
+        <div id="spin-year">—</div>
+        <div id="spin-status"></div>
+      </div>
+
+      <div id="reroll-section">
+        <div id="reroll-label">NOT FEELING IT? RE-ROLL · <span id="rerolls-left">3</span> LEFT</div>
+        <div id="reroll-btns">
+          <button id="btn-same-county" class="btn-reroll" onclick="reroll('county')" disabled>
+            ↺ SAME COUNTY
+          </button>
+          <button id="btn-same-year" class="btn-reroll" onclick="reroll('year')" disabled>
+            ↺ SAME YEAR
+          </button>
+        </div>
+      </div>
+
+      <div id="squad-header">PICK A PLAYER</div>
+      <div id="squad-list"></div>
+    </div>
+
+    <!-- CENTRE: pitch -->
+    <div id="pitch-panel">
+      <div id="pitch">
+        <div class="pitch-end-label">ATTACK</div>
+
+        <div class="pitch-line">
+          <div class="pitch-slot" data-slot="LFF"><div class="slot-pos">LFF</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="FF"><div class="slot-pos">FF</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="RFF"><div class="slot-pos">RFF</div><div class="slot-content"></div></div>
+        </div>
+
+        <div class="pitch-line">
+          <div class="pitch-slot" data-slot="LHF"><div class="slot-pos">LHF</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="CHF"><div class="slot-pos">CHF</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="RHF"><div class="slot-pos">RHF</div><div class="slot-content"></div></div>
+        </div>
+
+        <div class="pitch-line pitch-line-mid">
+          <div class="pitch-slot" data-slot="MF-0"><div class="slot-pos">MF</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="MF-1"><div class="slot-pos">MF</div><div class="slot-content"></div></div>
+        </div>
+
+        <div class="pitch-line">
+          <div class="pitch-slot" data-slot="LHB"><div class="slot-pos">LHB</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="CHB"><div class="slot-pos">CHB</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="RHB"><div class="slot-pos">RHB</div><div class="slot-content"></div></div>
+        </div>
+
+        <div class="pitch-line">
+          <div class="pitch-slot" data-slot="LFB"><div class="slot-pos">LFB</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="FB"><div class="slot-pos">FB</div><div class="slot-content"></div></div>
+          <div class="pitch-slot" data-slot="RFB"><div class="slot-pos">RFB</div><div class="slot-content"></div></div>
+        </div>
+
+        <div class="pitch-line">
+          <div class="pitch-slot" data-slot="GK"><div class="slot-pos">GK</div><div class="slot-content"></div></div>
+        </div>
+
+        <div class="pitch-end-label">DEFENCE</div>
+      </div>
+    </div>
+
+    <!-- RIGHT: selected XV -->
+    <div id="squad-panel">
+      <div id="squad-panel-header">
+        YOUR XV · <span id="pick-count">0</span>/15
+      </div>
+      <div id="my-squad-list"></div>
+      <div id="squad-panel-footer">
+        <button id="sim-btn" class="btn-primary" disabled>Simulate The Run →</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- SCREEN 3: SAM MAGUIRE RUN -->
+<div id="screen-sim" class="screen">
+  <div id="sim-wrap">
+    <div id="sim-top">
+      <div id="sim-eyebrow">THE RUN</div>
+      <div id="sim-heading">Sam Maguire</div>
+      <div id="sim-subheading">Can your XV go all the way?</div>
+    </div>
+    <!-- live match ticker (shown during simulation) -->
+    <div id="sim-live" style="display:none">
+      <div id="sim-live-label">QUARTER FINAL &middot; <span id="sim-live-status">LIVE <span class="live-dot">●</span></span></div>
+      <div id="sim-live-board">
+        <div class="live-side">
+          <div class="live-team-name">YOUR XV</div>
+          <div id="live-score-user" class="live-score">0-00</div>
+          <div id="live-total-user" class="live-total">(0)</div>
+        </div>
+        <div class="live-center">
+          <div id="sim-live-timer" class="live-timer">0'</div>
+        </div>
+        <div class="live-side live-side-opp">
+          <div id="live-opp-name" class="live-team-name">—</div>
+          <div id="live-score-opp" class="live-score">0-00</div>
+          <div id="live-total-opp" class="live-total">(0)</div>
+        </div>
+      </div>
+      <div id="sim-live-feed"></div>
+    </div>
+
+    <div id="sim-matches"></div>
+    <div id="sim-footer">
+      <button id="sim-next-btn" class="btn-sim-action">Reveal Quarter Final →</button>
+    </div>
+  </div>
+</div>
+
+<!-- SCREEN 4: RESULT -->
+<div id="screen-result" class="screen">
+  <div id="result-box">
+    <div class="result-top">
+      <h2>Your Dream Team</h2>
+      <div id="overall-score-wrap">
+        <span id="overall-score">—</span>
+        <span class="score-label">/ 100</span>
+      </div>
+    </div>
+    <div id="result-breakdown"></div>
+    <button id="play-again-btn" class="btn-primary">Play Again</button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

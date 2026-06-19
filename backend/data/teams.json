@@ -1,0 +1,9479 @@
+[
+  {
+    "year": 2000,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Declan O'Keeffe",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Killian Burns",
+        "position": "RFB",
+        "rating": 76
+      },
+      {
+        "name": "Seamus Moynihan",
+        "position": "FB",
+        "rating": 95
+      },
+      {
+        "name": "Barry O'Shea",
+        "position": "LFB",
+        "rating": 74
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 88
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 91
+      },
+      {
+        "name": "Liam Hassett",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Dara \u00d3 Cinn\u00e9ide",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Eamonn Breen",
+        "position": "CHF",
+        "rating": 76
+      },
+      {
+        "name": "Noel Kennelly",
+        "position": "LHF",
+        "rating": 74
+      },
+      {
+        "name": "Maurice Fitzgerald",
+        "position": "RFF",
+        "rating": 93
+      },
+      {
+        "name": "John Crowley",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Aodh\u00e1n MacGearailt",
+        "position": "LFF",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "county": "Galway",
+    "players": [
+      {
+        "name": "Martin McNamara",
+        "position": "GK",
+        "rating": 78
+      },
+      {
+        "name": "Tom\u00e1s Meehan",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Gary Fahey",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Declan Meehan",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Se\u00e1n \u00d3g de Paor",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Kevin Walsh",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Kieran Fitzgerald",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Michael Donnellan",
+        "position": "MF",
+        "rating": 89
+      },
+      {
+        "name": "Paul Clancy",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Derek Savage",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Ja Fallon",
+        "position": "CHF",
+        "rating": 87
+      },
+      {
+        "name": "Niall Finnegan",
+        "position": "LHF",
+        "rating": 78
+      },
+      {
+        "name": "Matthew Clancy",
+        "position": "RFF",
+        "rating": 75
+      },
+      {
+        "name": "P\u00e1draig Joyce",
+        "position": "FF",
+        "rating": 90
+      },
+      {
+        "name": "Dessie Dolan",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "county": "Derry",
+    "players": [
+      {
+        "name": "Barry Gillis",
+        "position": "GK",
+        "rating": 76
+      },
+      {
+        "name": "Kieran McCloy",
+        "position": "RFB",
+        "rating": 77
+      },
+      {
+        "name": "Fergal McCusker",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Sean Martin Lockhart",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Dermot McNicholl",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Kieran McKeever",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Anthony Tohill",
+        "position": "LHB",
+        "rating": 86
+      },
+      {
+        "name": "Ciaran Melaugh",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Enda Muldoon",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Joe Brolly",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Geoffrey McGonigle",
+        "position": "CHF",
+        "rating": 79
+      },
+      {
+        "name": "Dermot Heaney",
+        "position": "LHF",
+        "rating": 78
+      },
+      {
+        "name": "Paddy Bradley",
+        "position": "RFF",
+        "rating": 82
+      },
+      {
+        "name": "Eoin Burns",
+        "position": "FF",
+        "rating": 76
+      },
+      {
+        "name": "Niall McCusker",
+        "position": "LFF",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "county": "Kildare",
+    "players": [
+      {
+        "name": "Christy Byrne",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Anthony Rainbow",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Dermot Earley",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Ronan Quinn",
+        "position": "LFB",
+        "rating": 76
+      },
+      {
+        "name": "Davy Dalton",
+        "position": "RHB",
+        "rating": 78
+      },
+      {
+        "name": "Glenn Ryan",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Seamus Dowling",
+        "position": "LHB",
+        "rating": 76
+      },
+      {
+        "name": "Willie McCreery",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Brian Murphy",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Niall Buckley",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Martin Lynch",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Tadhg Fennin",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Adrian Sweeney",
+        "position": "RFF",
+        "rating": 76
+      },
+      {
+        "name": "P\u00e1draig Brennan",
+        "position": "FF",
+        "rating": 77
+      },
+      {
+        "name": "Declan Kerrigan",
+        "position": "LFF",
+        "rating": 74
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Finbar McConnell",
+        "position": "GK",
+        "rating": 79
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Cormac McAnallen",
+        "position": "FB",
+        "rating": 86
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Gavin Devlin",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "Kevin Hughes",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Gerard Cavlan",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "RHF",
+        "rating": 84
+      },
+      {
+        "name": "Peter Canavan",
+        "position": "CHF",
+        "rating": 96
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "FF",
+        "rating": 84
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "county": "Armagh",
+    "players": [
+      {
+        "name": "Benny Tierney",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Francie Bellew",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Kieran McGeeney",
+        "position": "FB",
+        "rating": 94
+      },
+      {
+        "name": "Enda McNulty",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Rourke",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Justin McNulty",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Tony McEntee",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Paul McGrane",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "John Toal",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Ois\u00edn McConville",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Diarmuid Marsden",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Cathal O'Rourke",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Ronan Clarke",
+        "position": "RFF",
+        "rating": 81
+      },
+      {
+        "name": "Steven McDonnell",
+        "position": "FF",
+        "rating": 88
+      },
+      {
+        "name": "Des Mackin",
+        "position": "LFF",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "Peter Burke",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Kenneth Mortimer",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Dermot Flanagan",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Pat Holmes",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Colm Moran",
+        "position": "RHB",
+        "rating": 76
+      },
+      {
+        "name": "James Nallen",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Noel Connelly",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "David Nestor",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Liam McHale",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Ciar\u00e1n McDonald",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Pat Fallon",
+        "position": "CHF",
+        "rating": 77
+      },
+      {
+        "name": "David Heaney",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Maurice Sheridan",
+        "position": "RFF",
+        "rating": 80
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "James Gill",
+        "position": "LFF",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Davy Byrne",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Paddy Christie",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Coman Goggins",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Paul Griffin",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Peadar Andrews",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 78
+      },
+      {
+        "name": "Darren Homan",
+        "position": "LHB",
+        "rating": 77
+      },
+      {
+        "name": "Ciaran Whelan",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Dessie Farrell",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Jason Sherlock",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Shane Ryan",
+        "position": "CHF",
+        "rating": 78
+      },
+      {
+        "name": "Declan Darcy",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Ray Cosgrove",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Vinny Murphy",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Ian Robertson",
+        "position": "LFF",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "county": "Galway",
+    "players": [
+      {
+        "name": "Martin McNamara",
+        "position": "GK",
+        "rating": 78
+      },
+      {
+        "name": "Tom\u00e1s Meehan",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Gary Fahey",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Declan Meehan",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Se\u00e1n \u00d3g de Paor",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Kevin Walsh",
+        "position": "CHB",
+        "rating": 88
+      },
+      {
+        "name": "Kieran Fitzgerald",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Michael Donnellan",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Paul Clancy",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Derek Savage",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Ja Fallon",
+        "position": "CHF",
+        "rating": 87
+      },
+      {
+        "name": "Niall Finnegan",
+        "position": "LHF",
+        "rating": 78
+      },
+      {
+        "name": "Matthew Clancy",
+        "position": "RFF",
+        "rating": 75
+      },
+      {
+        "name": "P\u00e1draig Joyce",
+        "position": "FF",
+        "rating": 91
+      },
+      {
+        "name": "Dessie Dolan",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "county": "Meath",
+    "players": [
+      {
+        "name": "Cormac Sullivan",
+        "position": "GK",
+        "rating": 78
+      },
+      {
+        "name": "Mark O'Reilly",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Darren Fay",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Cormac Murphy",
+        "position": "LFB",
+        "rating": 79
+      },
+      {
+        "name": "Paddy Reynolds",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Nigel Crawford",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Anthony Moyles",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Nigel Nestor",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "John McDermott",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Trevor Giles",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Graham Geraghty",
+        "position": "CHF",
+        "rating": 87
+      },
+      {
+        "name": "Richie Kealy",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Ollie Murphy",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Evan Kelly",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Donal Curtis",
+        "position": "LFF",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Declan O'Keeffe",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 88
+      },
+      {
+        "name": "Seamus Moynihan",
+        "position": "FB",
+        "rating": 94
+      },
+      {
+        "name": "Barry O'Shea",
+        "position": "LFB",
+        "rating": 74
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 89
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 92
+      },
+      {
+        "name": "Liam Hassett",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Dara \u00d3 Cinn\u00e9ide",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RHF",
+        "rating": 90
+      },
+      {
+        "name": "Eamonn Breen",
+        "position": "CHF",
+        "rating": 76
+      },
+      {
+        "name": "Noel Kennelly",
+        "position": "LHF",
+        "rating": 74
+      },
+      {
+        "name": "Maurice Fitzgerald",
+        "position": "RFF",
+        "rating": 92
+      },
+      {
+        "name": "John Crowley",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Aodh\u00e1n MacGearailt",
+        "position": "LFF",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Finbar McConnell",
+        "position": "GK",
+        "rating": 79
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Cormac McAnallen",
+        "position": "FB",
+        "rating": 87
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Gavin Devlin",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Kevin Hughes",
+        "position": "LHB",
+        "rating": 84
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Gerard Cavlan",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Peter Canavan",
+        "position": "CHF",
+        "rating": 97
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "FF",
+        "rating": 85
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "LFF",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "county": "Roscommon",
+    "players": [
+      {
+        "name": "Shane Curran",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Frankie Dolan",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Seamus O'Neill",
+        "position": "FB",
+        "rating": 77
+      },
+      {
+        "name": "Ian Tiernan",
+        "position": "LFB",
+        "rating": 76
+      },
+      {
+        "name": "Nigel Dineen",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "John Tiernan",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Gerry Lohan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Stephen Lohan",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Seamus Beirne",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Gary Cox",
+        "position": "RHF",
+        "rating": 80
+      },
+      {
+        "name": "Karol Mannion",
+        "position": "CHF",
+        "rating": 82
+      },
+      {
+        "name": "John Hanly",
+        "position": "LHF",
+        "rating": 76
+      },
+      {
+        "name": "Ger Heneghan",
+        "position": "RFF",
+        "rating": 77
+      },
+      {
+        "name": "Clifford McDonald",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Dermot Earley Jr",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Davy Byrne",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Paddy Christie",
+        "position": "RFB",
+        "rating": 81
+      },
+      {
+        "name": "Coman Goggins",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Paul Griffin",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Peadar Andrews",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 78
+      },
+      {
+        "name": "Darren Homan",
+        "position": "LHB",
+        "rating": 77
+      },
+      {
+        "name": "Ciaran Whelan",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Dessie Farrell",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Jason Sherlock",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Shane Ryan",
+        "position": "CHF",
+        "rating": 78
+      },
+      {
+        "name": "Declan Darcy",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Ray Cosgrove",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Vinny Murphy",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Ian Robertson",
+        "position": "LFF",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "county": "Armagh",
+    "players": [
+      {
+        "name": "Benny Tierney",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Francie Bellew",
+        "position": "RFB",
+        "rating": 85
+      },
+      {
+        "name": "Kieran McGeeney",
+        "position": "FB",
+        "rating": 96
+      },
+      {
+        "name": "Enda McNulty",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Aidan O'Rourke",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Justin McNulty",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Tony McEntee",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Paul McGrane",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "John Toal",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Ois\u00edn McConville",
+        "position": "RHF",
+        "rating": 91
+      },
+      {
+        "name": "Diarmuid Marsden",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Cathal O'Rourke",
+        "position": "LHF",
+        "rating": 78
+      },
+      {
+        "name": "Ronan Clarke",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Steven McDonnell",
+        "position": "FF",
+        "rating": 92
+      },
+      {
+        "name": "Des Mackin",
+        "position": "LFF",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Declan O'Keeffe",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 90
+      },
+      {
+        "name": "Seamus Moynihan",
+        "position": "FB",
+        "rating": 93
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 91
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 93
+      },
+      {
+        "name": "William Kirby",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Dara \u00d3 Cinn\u00e9ide",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RHF",
+        "rating": 90
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 87
+      },
+      {
+        "name": "Eoin Brosnan",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Maurice Fitzgerald",
+        "position": "RFF",
+        "rating": 90
+      },
+      {
+        "name": "John Crowley",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "LFF",
+        "rating": 90
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Finbar McConnell",
+        "position": "GK",
+        "rating": 79
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Cormac McAnallen",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Gavin Devlin",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "CHB",
+        "rating": 86
+      },
+      {
+        "name": "Kevin Hughes",
+        "position": "LHB",
+        "rating": 84
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 93
+      },
+      {
+        "name": "Gerard Cavlan",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "RHF",
+        "rating": 86
+      },
+      {
+        "name": "Peter Canavan",
+        "position": "CHF",
+        "rating": 97
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "RFF",
+        "rating": 89
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "FF",
+        "rating": 86
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "LFF",
+        "rating": 84
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "county": "Donegal",
+    "players": [
+      {
+        "name": "Tony Blake",
+        "position": "GK",
+        "rating": 76
+      },
+      {
+        "name": "Barry Monaghan",
+        "position": "RFB",
+        "rating": 77
+      },
+      {
+        "name": "Eamonn McGee",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Damien Diver",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Cathal Mulgrew",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "Barry Cunningham",
+        "position": "CHB",
+        "rating": 78
+      },
+      {
+        "name": "John Gildea",
+        "position": "LHB",
+        "rating": 76
+      },
+      {
+        "name": "Brian Roper",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Adrian Sweeney",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Brendan Devenney",
+        "position": "RHF",
+        "rating": 80
+      },
+      {
+        "name": "Colm McFadden",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Mark Crossan",
+        "position": "LHF",
+        "rating": 76
+      },
+      {
+        "name": "Ciaran Bonner",
+        "position": "RFF",
+        "rating": 77
+      },
+      {
+        "name": "Barry Dunnion",
+        "position": "FF",
+        "rating": 76
+      },
+      {
+        "name": "Christy Toye",
+        "position": "LFF",
+        "rating": 79
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "John Devine",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 86
+      },
+      {
+        "name": "Cormac McAnallen",
+        "position": "FB",
+        "rating": 89
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Gavin Devlin",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Kevin Hughes",
+        "position": "LHB",
+        "rating": 85
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 95
+      },
+      {
+        "name": "Gerard Cavlan",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Peter Canavan",
+        "position": "CHF",
+        "rating": 97
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "RFF",
+        "rating": 91
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "FF",
+        "rating": 87
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "LFF",
+        "rating": 85
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "county": "Armagh",
+    "players": [
+      {
+        "name": "Benny Tierney",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Francie Bellew",
+        "position": "RFB",
+        "rating": 85
+      },
+      {
+        "name": "Kieran McGeeney",
+        "position": "FB",
+        "rating": 95
+      },
+      {
+        "name": "Enda McNulty",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Aidan O'Rourke",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Justin McNulty",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Tony McEntee",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Paul McGrane",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "John Toal",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Ois\u00edn McConville",
+        "position": "RHF",
+        "rating": 90
+      },
+      {
+        "name": "Diarmuid Marsden",
+        "position": "CHF",
+        "rating": 82
+      },
+      {
+        "name": "Cathal O'Rourke",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Ronan Clarke",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Steven McDonnell",
+        "position": "FF",
+        "rating": 91
+      },
+      {
+        "name": "Des Mackin",
+        "position": "LFF",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Declan O'Keeffe",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 91
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Seamus Moynihan",
+        "position": "CHB",
+        "rating": 91
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 93
+      },
+      {
+        "name": "William Kirby",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Dara \u00d3 Cinn\u00e9ide",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 88
+      },
+      {
+        "name": "Eoin Brosnan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RFF",
+        "rating": 90
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 94
+      },
+      {
+        "name": "John Crowley",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "county": "Laois",
+    "players": [
+      {
+        "name": "Fergal Byron",
+        "position": "GK",
+        "rating": 79
+      },
+      {
+        "name": "Tom Kelly",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Colm Parkinson",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Cahir Healy",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Padraig Clancy",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Chris Conway",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Damien Delaney",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Brian McDonald",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Pauric Clancy",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Brendan Quigley",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Ross Munnelly",
+        "position": "CHF",
+        "rating": 85
+      },
+      {
+        "name": "Noel Garvan",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Donie Brennan",
+        "position": "RFF",
+        "rating": 80
+      },
+      {
+        "name": "Joe Higgins",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Kevin Fitzpatrick",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "county": "Derry",
+    "players": [
+      {
+        "name": "Barry Gillis",
+        "position": "GK",
+        "rating": 76
+      },
+      {
+        "name": "Sean Martin Lockhart",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Fergal McCusker",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Kieran McCloy",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Anthony Tohill",
+        "position": "RHB",
+        "rating": 85
+      },
+      {
+        "name": "Kieran McKeever",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Dermot Heaney",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Enda Muldoon",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Francis Doherty",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Paddy Bradley",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Joe Brolly",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Ciaran Melaugh",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Geoffrey McGonigle",
+        "position": "RFF",
+        "rating": 79
+      },
+      {
+        "name": "Kevin McGuckin",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Eoin Burns",
+        "position": "LFF",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "county": "Fermanagh",
+    "players": [
+      {
+        "name": "Ronan Gallagher",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Marty McGrath",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Rory Gallagher",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Mark Brewster",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Thomas Corrigan",
+        "position": "RHB",
+        "rating": 78
+      },
+      {
+        "name": "Ciaran Corrigan",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Raymond Johnston",
+        "position": "LHB",
+        "rating": 77
+      },
+      {
+        "name": "Tom Brewster",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Ciaran McManus",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "James Sherry",
+        "position": "RHF",
+        "rating": 79
+      },
+      {
+        "name": "Eamonn Maguire",
+        "position": "CHF",
+        "rating": 80
+      },
+      {
+        "name": "Joe Sheridan",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Adrian Treacy",
+        "position": "RFF",
+        "rating": 78
+      },
+      {
+        "name": "Seamus Quigley",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Barry Owens",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 92
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 85
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 93
+      },
+      {
+        "name": "Seamus Moynihan",
+        "position": "CHB",
+        "rating": 92
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 94
+      },
+      {
+        "name": "William Kirby",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Dara \u00d3 Cinn\u00e9ide",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 87
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 90
+      },
+      {
+        "name": "Eoin Brosnan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RFF",
+        "rating": 91
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 97
+      },
+      {
+        "name": "John Crowley",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Kenneth Mortimer",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "David Heaney",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Pat Holmes",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Colm Moran",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "James Nallen",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Noel Connelly",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Ronan McGarrity",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Peadar Gardiner",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Ciar\u00e1n McDonald",
+        "position": "RHF",
+        "rating": 90
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "David Brady",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Maurice Sheridan",
+        "position": "RFF",
+        "rating": 78
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Andy Moran",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "county": "Fermanagh",
+    "players": [
+      {
+        "name": "Ronan Gallagher",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Marty McGrath",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Rory Gallagher",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Mark Brewster",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Thomas Corrigan",
+        "position": "RHB",
+        "rating": 78
+      },
+      {
+        "name": "Ciaran Corrigan",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Raymond Johnston",
+        "position": "LHB",
+        "rating": 77
+      },
+      {
+        "name": "Tom Brewster",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Ciaran McManus",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "James Sherry",
+        "position": "RHF",
+        "rating": 79
+      },
+      {
+        "name": "Eamonn Maguire",
+        "position": "CHF",
+        "rating": 80
+      },
+      {
+        "name": "Joe Sheridan",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Adrian Treacy",
+        "position": "RFF",
+        "rating": 78
+      },
+      {
+        "name": "Seamus Quigley",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Barry Owens",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "county": "Westmeath",
+    "players": [
+      {
+        "name": "Gary Connaughton",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Mark Cahill",
+        "position": "RFB",
+        "rating": 78
+      },
+      {
+        "name": "Rory O'Connell",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "S\u00e9amus Egan",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Dessie Dolan",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "David O'Shaughnessy",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Donal Shine",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Michael Ennis",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Alan Mangan",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Martin Flanagan",
+        "position": "RHF",
+        "rating": 80
+      },
+      {
+        "name": "Gary Connaughton Jr",
+        "position": "CHF",
+        "rating": 79
+      },
+      {
+        "name": "Darren McCormack",
+        "position": "LHF",
+        "rating": 78
+      },
+      {
+        "name": "John Keane",
+        "position": "RFF",
+        "rating": 80
+      },
+      {
+        "name": "Dennis Glennon",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Ger Heavin",
+        "position": "LFF",
+        "rating": 79
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "county": "Laois",
+    "players": [
+      {
+        "name": "Fergal Byron",
+        "position": "GK",
+        "rating": 79
+      },
+      {
+        "name": "Tom Kelly",
+        "position": "RFB",
+        "rating": 81
+      },
+      {
+        "name": "Colm Parkinson",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Cahir Healy",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Padraig Clancy",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Chris Conway",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Damien Delaney",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Brian McDonald",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Pauric Clancy",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Brendan Quigley",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Ross Munnelly",
+        "position": "CHF",
+        "rating": 85
+      },
+      {
+        "name": "Noel Garvan",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Donie Brennan",
+        "position": "RFF",
+        "rating": 80
+      },
+      {
+        "name": "Joe Higgins",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Kevin Fitzpatrick",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Pascal McConnell",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 86
+      },
+      {
+        "name": "Joe McMahon",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Gavin Devlin",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Kevin Hughes",
+        "position": "LHB",
+        "rating": 85
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 94
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Gerard Cavlan",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "FF",
+        "rating": 91
+      },
+      {
+        "name": "Peter Canavan",
+        "position": "LFF",
+        "rating": 96
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Pascal McConnell",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 86
+      },
+      {
+        "name": "Joe McMahon",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Gavin Devlin",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Kevin Hughes",
+        "position": "LHB",
+        "rating": 85
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 95
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "MF",
+        "rating": 88
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "CHF",
+        "rating": 86
+      },
+      {
+        "name": "Gerard Cavlan",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "FF",
+        "rating": 92
+      },
+      {
+        "name": "Peter Canavan",
+        "position": "LFF",
+        "rating": 97
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 93
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 85
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 93
+      },
+      {
+        "name": "Seamus Moynihan",
+        "position": "CHB",
+        "rating": 91
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 94
+      },
+      {
+        "name": "William Kirby",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Dara \u00d3 Cinn\u00e9ide",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 87
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Eoin Brosnan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RFF",
+        "rating": 90
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 97
+      },
+      {
+        "name": "John Crowley",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "county": "Armagh",
+    "players": [
+      {
+        "name": "Benny Tierney",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Francie Bellew",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Kieran McGeeney",
+        "position": "FB",
+        "rating": 94
+      },
+      {
+        "name": "Enda McNulty",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Rourke",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Justin McNulty",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Tony McEntee",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Paul McGrane",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "John Toal",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Ois\u00edn McConville",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Diarmuid Marsden",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Cathal O'Rourke",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Ronan Clarke",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Steven McDonnell",
+        "position": "FF",
+        "rating": 91
+      },
+      {
+        "name": "Des Mackin",
+        "position": "LFF",
+        "rating": 74
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 92
+      },
+      {
+        "name": "Paddy Christie",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Coman Goggins",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Paul Griffin",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Bryan Cullen",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Shane Ryan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Ciaran Whelan",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Darren Homan",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Jason Sherlock",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "CHF",
+        "rating": 86
+      },
+      {
+        "name": "Declan Darcy",
+        "position": "LHF",
+        "rating": 78
+      },
+      {
+        "name": "Ray Cosgrove",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Vinny Murphy",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Collie Moran",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "county": "Cork",
+    "players": [
+      {
+        "name": "Alan Quirke",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Derek Kavanagh",
+        "position": "RFB",
+        "rating": 78
+      },
+      {
+        "name": "Anthony Lynch",
+        "position": "FB",
+        "rating": 81
+      },
+      {
+        "name": "Kieran O'Connor",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Paudie Kissane",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Graham Canty",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Eoin Cadogan",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Nicholas Murphy",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Daniel Goulding",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Pearse O'Neill",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Fionan Murray",
+        "position": "CHF",
+        "rating": 77
+      },
+      {
+        "name": "Paul Kerrigan",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Donncha O'Connor",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Joe Kavanagh",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Colm O'Neill",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Kenneth Mortimer",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "David Heaney",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Pat Holmes",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Colm Moran",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "James Nallen",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Noel Connelly",
+        "position": "LHB",
+        "rating": 77
+      },
+      {
+        "name": "Ronan McGarrity",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Peadar Gardiner",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Ciar\u00e1n McDonald",
+        "position": "RHF",
+        "rating": 90
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "David Brady",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Maurice Sheridan",
+        "position": "RFF",
+        "rating": 77
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 84
+      },
+      {
+        "name": "Andy Moran",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 93
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 85
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 94
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 93
+      },
+      {
+        "name": "Tommy Griffin",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Dara \u00d3 Cinn\u00e9ide",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Eoin Brosnan",
+        "position": "LHF",
+        "rating": 83
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RFF",
+        "rating": 89
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 98
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "LFF",
+        "rating": 93
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Kenneth Mortimer",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "David Heaney",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Pat Holmes",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "James Nallen",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Noel Connelly",
+        "position": "LHB",
+        "rating": 77
+      },
+      {
+        "name": "Ronan McGarrity",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Peadar Gardiner",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Ciar\u00e1n McDonald",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "CHF",
+        "rating": 85
+      },
+      {
+        "name": "David Brady",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 85
+      },
+      {
+        "name": "Kevin O'Neill",
+        "position": "LFF",
+        "rating": 79
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 93
+      },
+      {
+        "name": "Paddy Christie",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Coman Goggins",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Paul Griffin",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Bryan Cullen",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Shane Ryan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Ciaran Whelan",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Darren Homan",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Jason Sherlock",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "CHF",
+        "rating": 87
+      },
+      {
+        "name": "Declan Darcy",
+        "position": "LHF",
+        "rating": 78
+      },
+      {
+        "name": "Ray Cosgrove",
+        "position": "RFF",
+        "rating": 82
+      },
+      {
+        "name": "Vinny Murphy",
+        "position": "FF",
+        "rating": 78
+      },
+      {
+        "name": "Collie Moran",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "county": "Cork",
+    "players": [
+      {
+        "name": "Alan Quirke",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Derek Kavanagh",
+        "position": "RFB",
+        "rating": 78
+      },
+      {
+        "name": "Anthony Lynch",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Noel O'Leary",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Paudie Kissane",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Graham Canty",
+        "position": "CHB",
+        "rating": 86
+      },
+      {
+        "name": "Eoin Cadogan",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Nicholas Murphy",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Daniel Goulding",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Pearse O'Neill",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Fionan Murray",
+        "position": "CHF",
+        "rating": 77
+      },
+      {
+        "name": "Paul Kerrigan",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Donncha O'Connor",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Joe Kavanagh",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Colm O'Neill",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 93
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 85
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 93
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Darragh \u00d3 S\u00e9",
+        "position": "LHB",
+        "rating": 92
+      },
+      {
+        "name": "Tommy Griffin",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "S\u00e9amus Scanlon",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Eoin Brosnan",
+        "position": "LHF",
+        "rating": 83
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 98
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "LFF",
+        "rating": 94
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "county": "Cork",
+    "players": [
+      {
+        "name": "Alan Quirke",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Ray Carey",
+        "position": "RFB",
+        "rating": 77
+      },
+      {
+        "name": "Anthony Lynch",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Noel O'Leary",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Paudie Kissane",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Graham Canty",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Eoin Cadogan",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Nicholas Murphy",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Daniel Goulding",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Pearse O'Neill",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Alan O'Connor",
+        "position": "CHF",
+        "rating": 79
+      },
+      {
+        "name": "Paul Kerrigan",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Donncha O'Connor",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Joe Kavanagh",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Colm O'Neill",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "county": "Meath",
+    "players": [
+      {
+        "name": "Brendan Murphy",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Mark O'Reilly",
+        "position": "RFB",
+        "rating": 81
+      },
+      {
+        "name": "Darren Fay",
+        "position": "FB",
+        "rating": 86
+      },
+      {
+        "name": "Cormac Murphy",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Anthony Moyles",
+        "position": "RHB",
+        "rating": 78
+      },
+      {
+        "name": "Nigel Crawford",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Paddy Reynolds",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Nigel Nestor",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "John McDermott",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Trevor Giles",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Graham Geraghty",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Richie Kealy",
+        "position": "LHF",
+        "rating": 76
+      },
+      {
+        "name": "Ollie Murphy",
+        "position": "RFF",
+        "rating": 81
+      },
+      {
+        "name": "Evan Kelly",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Donal Curtis",
+        "position": "LFF",
+        "rating": 75
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 94
+      },
+      {
+        "name": "Paddy Christie",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Coman Goggins",
+        "position": "FB",
+        "rating": 78
+      },
+      {
+        "name": "Paul Griffin",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Bryan Cullen",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Shane Ryan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Ciaran Whelan",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Darren Homan",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Jason Sherlock",
+        "position": "RHF",
+        "rating": 80
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "CHF",
+        "rating": 88
+      },
+      {
+        "name": "Declan Darcy",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Ray Cosgrove",
+        "position": "RFF",
+        "rating": 81
+      },
+      {
+        "name": "Vinny Murphy",
+        "position": "FF",
+        "rating": 78
+      },
+      {
+        "name": "Collie Moran",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "John Devine",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 85
+      },
+      {
+        "name": "Joe McMahon",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "RHB",
+        "rating": 86
+      },
+      {
+        "name": "Justin McMahon",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Kevin Hughes",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 95
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Tommy McGuigan",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "CHF",
+        "rating": 85
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "FF",
+        "rating": 91
+      },
+      {
+        "name": "Martin Penrose",
+        "position": "LFF",
+        "rating": 79
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 92
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Tommy Griffin",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "S\u00e9amus Scanlon",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Eoin Brosnan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 98
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "LFF",
+        "rating": 93
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "David Heaney",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Ger Brady",
+        "position": "LFB",
+        "rating": 79
+      },
+      {
+        "name": "Colm Moran",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "James Nallen",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Tom Cunniffe",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Ronan McGarrity",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Peadar Gardiner",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Ciar\u00e1n McDonald",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "CHF",
+        "rating": 85
+      },
+      {
+        "name": "David Brady",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 84
+      },
+      {
+        "name": "Kevin O'Neill",
+        "position": "LFF",
+        "rating": 79
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "county": "Galway",
+    "players": [
+      {
+        "name": "Se\u00e1n \u00d3g de Paor",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Finian Hanley",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Gary Fahey",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Declan Meehan",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 Flatharta",
+        "position": "RHB",
+        "rating": 78
+      },
+      {
+        "name": "Se\u00e1n Armstrong",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Noel Meehan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Michael Meehan",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "P\u00e1draic Joyce",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Ciar\u00e1n McDonald",
+        "position": "RHF",
+        "rating": 79
+      },
+      {
+        "name": "Alan Mulholland",
+        "position": "CHF",
+        "rating": 79
+      },
+      {
+        "name": "P\u00e1draig Joyce",
+        "position": "LHF",
+        "rating": 85
+      },
+      {
+        "name": "Derek Savage",
+        "position": "RFF",
+        "rating": 79
+      },
+      {
+        "name": "Matthew Clancy",
+        "position": "FF",
+        "rating": 76
+      },
+      {
+        "name": "Kieran Fitzgerald",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 92
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 91
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Darran O'Sullivan",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Tommy Griffin",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 90
+      },
+      {
+        "name": "Bryan Sheehan",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Mike Frank Russell",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 98
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "LFF",
+        "rating": 93
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "county": "Cork",
+    "players": [
+      {
+        "name": "Alan Quirke",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Ray Carey",
+        "position": "RFB",
+        "rating": 77
+      },
+      {
+        "name": "Michael Shields",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Noel O'Leary",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Paudie Kissane",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Graham Canty",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Eoin Cadogan",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Nicholas Murphy",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Aidan Walsh",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Pearse O'Neill",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Alan O'Connor",
+        "position": "CHF",
+        "rating": 78
+      },
+      {
+        "name": "Paul Kerrigan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Donncha O'Connor",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Daniel Goulding",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Colm O'Neill",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 95
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Coman Goggins",
+        "position": "FB",
+        "rating": 78
+      },
+      {
+        "name": "Paul Griffin",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Bryan Cullen",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Shane Ryan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Ciaran Whelan",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Darren Homan",
+        "position": "MF",
+        "rating": 76
+      },
+      {
+        "name": "Jason Sherlock",
+        "position": "RHF",
+        "rating": 79
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "CHF",
+        "rating": 88
+      },
+      {
+        "name": "Declan Darcy",
+        "position": "LHF",
+        "rating": 77
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Ray Cosgrove",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Collie Moran",
+        "position": "LFF",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "county": "Meath",
+    "players": [
+      {
+        "name": "Brendan Murphy",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Mark O'Reilly",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Darren Fay",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Cormac Murphy",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Anthony Moyles",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "Nigel Crawford",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Paddy Reynolds",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Nigel Nestor",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Shane McAnarney",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Trevor Giles",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Graham Geraghty",
+        "position": "CHF",
+        "rating": 82
+      },
+      {
+        "name": "Richie Kealy",
+        "position": "LHF",
+        "rating": 75
+      },
+      {
+        "name": "Ollie Murphy",
+        "position": "RFF",
+        "rating": 80
+      },
+      {
+        "name": "Evan Kelly",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Joe Sheridan",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 85
+      },
+      {
+        "name": "David Heaney",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Ger Brady",
+        "position": "LFB",
+        "rating": 79
+      },
+      {
+        "name": "Colm Moran",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "Tom Cunniffe",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Ronan McGarrity",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Ciar\u00e1n McDonald",
+        "position": "RHF",
+        "rating": 87
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Trevor Mortimer",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "county": "Cork",
+    "players": [
+      {
+        "name": "Alan Quirke",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Ray Carey",
+        "position": "RFB",
+        "rating": 77
+      },
+      {
+        "name": "Michael Shields",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Noel O'Leary",
+        "position": "LFB",
+        "rating": 86
+      },
+      {
+        "name": "Paudie Kissane",
+        "position": "RHB",
+        "rating": 80
+      },
+      {
+        "name": "Graham Canty",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Eoin Cadogan",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Nicholas Murphy",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Aidan Walsh",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Pearse O'Neill",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Alan O'Connor",
+        "position": "CHF",
+        "rating": 78
+      },
+      {
+        "name": "Paul Kerrigan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Donncha O'Connor",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Daniel Goulding",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Colm O'Neill",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "county": "Down",
+    "players": [
+      {
+        "name": "Brendan McVeigh",
+        "position": "GK",
+        "rating": 79
+      },
+      {
+        "name": "Declan Rooney",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Brendan McArdle",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Conor Garvey",
+        "position": "LFB",
+        "rating": 78
+      },
+      {
+        "name": "Kevin McKernan",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Aidan Carr",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Dan Gordon",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Kalum King",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Benny Coulter",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Marty Clarke",
+        "position": "RHF",
+        "rating": 84
+      },
+      {
+        "name": "Paul McComiskey",
+        "position": "CHF",
+        "rating": 79
+      },
+      {
+        "name": "Michael Walsh",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Danny Hughes",
+        "position": "RFF",
+        "rating": 81
+      },
+      {
+        "name": "Mark Poland",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "James McCartan",
+        "position": "LFF",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 96
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Rory O'Carroll",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 87
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 89
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 79
+      },
+      {
+        "name": "Kevin Nolan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Michael Darragh Macauley",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Eoghan O'Gara",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Paul Flynn",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Diarmuid Connolly",
+        "position": "CHF",
+        "rating": 89
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "LHF",
+        "rating": 88
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 82
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "FF",
+        "rating": 90
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 85
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "county": "Meath",
+    "players": [
+      {
+        "name": "Brendan Murphy",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Mark O'Reilly",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Darren Fay",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Cormac Murphy",
+        "position": "LFB",
+        "rating": 77
+      },
+      {
+        "name": "Anthony Moyles",
+        "position": "RHB",
+        "rating": 77
+      },
+      {
+        "name": "Nigel Crawford",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Paddy Reynolds",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Nigel Nestor",
+        "position": "MF",
+        "rating": 77
+      },
+      {
+        "name": "Shane McAnarney",
+        "position": "MF",
+        "rating": 78
+      },
+      {
+        "name": "Trevor Giles",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Graham Geraghty",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Richie Kealy",
+        "position": "LHF",
+        "rating": 74
+      },
+      {
+        "name": "Ollie Murphy",
+        "position": "RFF",
+        "rating": 79
+      },
+      {
+        "name": "Joe Sheridan",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Brian Farrell",
+        "position": "LFF",
+        "rating": 76
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Pascal McConnell",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Ryan McMenamin",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Joe McMahon",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Conor Gormley",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Philip Jordan",
+        "position": "RHB",
+        "rating": 84
+      },
+      {
+        "name": "Justin McMahon",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Colm Cavanagh",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 93
+      },
+      {
+        "name": "Brian Dooher",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Tommy McGuigan",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Brian McGuigan",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Enda McGinley",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Owen Mulligan",
+        "position": "RFF",
+        "rating": 86
+      },
+      {
+        "name": "Stephen O'Neill",
+        "position": "FF",
+        "rating": 89
+      },
+      {
+        "name": "Martin Penrose",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "county": "Kildare",
+    "players": [
+      {
+        "name": "Mark Donnellan",
+        "position": "GK",
+        "rating": 78
+      },
+      {
+        "name": "Emmet Bolton",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Dermot Earley",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Ronan Quinn",
+        "position": "LFB",
+        "rating": 76
+      },
+      {
+        "name": "Davy Dalton",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Padraig O'Neill",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Glen Ryan",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Eamonn Callaghan",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Kieran McGeeney",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Niall Buckley",
+        "position": "RHF",
+        "rating": 80
+      },
+      {
+        "name": "Martin Lynch",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Tadhg Fennin",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Tom\u00e1s O'Connor",
+        "position": "RFF",
+        "rating": 81
+      },
+      {
+        "name": "Johnny Doyle",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Alan Smith",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 99
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Rory O'Carroll",
+        "position": "FB",
+        "rating": 91
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 90
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Barry Cahill",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Kevin Nolan",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Michael Darragh Macauley",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Eoghan O'Gara",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Paul Flynn",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Diarmuid Connolly",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "LHF",
+        "rating": 89
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "FF",
+        "rating": 92
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 88
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 91
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Killian Young",
+        "position": "LFB",
+        "rating": 79
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 90
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Bryan Sheehan",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Anthony Maher",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Tommy Griffin",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 89
+      },
+      {
+        "name": "Donnchadh Walsh",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "James O'Donoghue",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 97
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "LFF",
+        "rating": 92
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "county": "Donegal",
+    "players": [
+      {
+        "name": "Paul Durcan",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Eamonn McGee",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Neil McGee",
+        "position": "FB",
+        "rating": 87
+      },
+      {
+        "name": "Paddy McGrath",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Rory Kavanagh",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Frank McGlynn",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "Karl Lacey",
+        "position": "LHB",
+        "rating": 92
+      },
+      {
+        "name": "Colm McFadden",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Mark McHugh",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Ryan McHugh",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Michael Murphy",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Leo McLoone",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Patrick McBrearty",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Christy Toye",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Martin McElhinney",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 86
+      },
+      {
+        "name": "Ger Brady",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Kevin Keane",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Tom Cunniffe",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 88
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Michael Conroy",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 86
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Alan Freeman",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "county": "Cork",
+    "players": [
+      {
+        "name": "Alan Quirke",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Ray Carey",
+        "position": "RFB",
+        "rating": 77
+      },
+      {
+        "name": "Michael Shields",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Noel O'Leary",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Paudie Kissane",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Graham Canty",
+        "position": "CHB",
+        "rating": 86
+      },
+      {
+        "name": "Eoin Cadogan",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Nicholas Murphy",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Aidan Walsh",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Pearse O'Neill",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Alan O'Connor",
+        "position": "CHF",
+        "rating": 78
+      },
+      {
+        "name": "Paul Kerrigan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Donncha O'Connor",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Daniel Goulding",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Colm O'Neill",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "county": "Donegal",
+    "players": [
+      {
+        "name": "Paul Durcan",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Eamonn McGee",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Neil McGee",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Paddy McGrath",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Rory Kavanagh",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Frank McGlynn",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Karl Lacey",
+        "position": "LHB",
+        "rating": 93
+      },
+      {
+        "name": "Colm McFadden",
+        "position": "MF",
+        "rating": 88
+      },
+      {
+        "name": "Mark McHugh",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Ryan McHugh",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Michael Murphy",
+        "position": "CHF",
+        "rating": 94
+      },
+      {
+        "name": "Leo McLoone",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Patrick McBrearty",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Christy Toye",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Martin McElhinney",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 87
+      },
+      {
+        "name": "Ger Brady",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Kevin Keane",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "RHB",
+        "rating": 84
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Tom Cunniffe",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 87
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Alan Freeman",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "county": "Cork",
+    "players": [
+      {
+        "name": "Alan Quirke",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Ray Carey",
+        "position": "RFB",
+        "rating": 76
+      },
+      {
+        "name": "Michael Shields",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Noel O'Leary",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Paudie Kissane",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Graham Canty",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Eoin Cadogan",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Nicholas Murphy",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Aidan Walsh",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Pearse O'Neill",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Alan O'Connor",
+        "position": "CHF",
+        "rating": 77
+      },
+      {
+        "name": "Paul Kerrigan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Donncha O'Connor",
+        "position": "RFF",
+        "rating": 82
+      },
+      {
+        "name": "Daniel Goulding",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Colm O'Neill",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 99
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Rory O'Carroll",
+        "position": "FB",
+        "rating": 91
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 90
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "CHB",
+        "rating": 86
+      },
+      {
+        "name": "Kevin Nolan",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Michael Darragh Macauley",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Denis Bastick",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Paul Flynn",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Diarmuid Connolly",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "LHF",
+        "rating": 88
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "FF",
+        "rating": 92
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 88
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 99
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Rory O'Carroll",
+        "position": "FB",
+        "rating": 91
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 90
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "CHB",
+        "rating": 88
+      },
+      {
+        "name": "Kevin Nolan",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Michael Darragh Macauley",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Denis Bastick",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 92
+      },
+      {
+        "name": "Diarmuid Connolly",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Alan Brogan",
+        "position": "LHF",
+        "rating": 88
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "FF",
+        "rating": 92
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 88
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 87
+      },
+      {
+        "name": "Ger Brady",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Kevin Keane",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "RHB",
+        "rating": 85
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Tom Cunniffe",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 88
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Alan Freeman",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "county": "Donegal",
+    "players": [
+      {
+        "name": "Paul Durcan",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Eamonn McGee",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Neil McGee",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Paddy McGrath",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Rory Kavanagh",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Frank McGlynn",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Karl Lacey",
+        "position": "LHB",
+        "rating": 92
+      },
+      {
+        "name": "Colm McFadden",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Mark McHugh",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Ryan McHugh",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Michael Murphy",
+        "position": "CHF",
+        "rating": 94
+      },
+      {
+        "name": "Leo McLoone",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Patrick McBrearty",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Christy Toye",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Martin McElhinney",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Diarmuid Murphy",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 90
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 89
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Anthony Maher",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 87
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 88
+      },
+      {
+        "name": "Donnchadh Walsh",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "James O'Donoghue",
+        "position": "RFF",
+        "rating": 86
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 96
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "LFF",
+        "rating": 91
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Brian Kelly",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 90
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Tom\u00e1s \u00d3 S\u00e9",
+        "position": "RHB",
+        "rating": 89
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Anthony Maher",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "RHF",
+        "rating": 87
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 88
+      },
+      {
+        "name": "Bryan Sheehan",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "James O'Donoghue",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "FF",
+        "rating": 96
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "LFF",
+        "rating": 91
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "county": "Donegal",
+    "players": [
+      {
+        "name": "Paul Durcan",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Eamonn McGee",
+        "position": "RFB",
+        "rating": 81
+      },
+      {
+        "name": "Neil McGee",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Paddy McGrath",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Rory Kavanagh",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Frank McGlynn",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Karl Lacey",
+        "position": "LHB",
+        "rating": 93
+      },
+      {
+        "name": "Colm McFadden",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Mark McHugh",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Ryan McHugh",
+        "position": "RHF",
+        "rating": 86
+      },
+      {
+        "name": "Michael Murphy",
+        "position": "CHF",
+        "rating": 94
+      },
+      {
+        "name": "Leo McLoone",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Patrick McBrearty",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Christy Toye",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Martin McElhinney",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 87
+      },
+      {
+        "name": "Ger Brady",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Kevin Keane",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Lee Keegan",
+        "position": "RHB",
+        "rating": 90
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Brendan Harrison",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "RHF",
+        "rating": 84
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 88
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Conor Mortimer",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 99
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Rory O'Carroll",
+        "position": "FB",
+        "rating": 90
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 90
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "CHB",
+        "rating": 88
+      },
+      {
+        "name": "Jack McCaffrey",
+        "position": "LHB",
+        "rating": 89
+      },
+      {
+        "name": "Michael Darragh Macauley",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Denis Bastick",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 93
+      },
+      {
+        "name": "Diarmuid Connolly",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Paul Flynn",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "FF",
+        "rating": 91
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 99
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Rory O'Carroll",
+        "position": "FB",
+        "rating": 90
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 90
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "CHB",
+        "rating": 88
+      },
+      {
+        "name": "Cian O'Sullivan",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 95
+      },
+      {
+        "name": "Denis Bastick",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 94
+      },
+      {
+        "name": "Diarmuid Connolly",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Paul Flynn",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "FF",
+        "rating": 91
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Brian Kelly",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Marc \u00d3 S\u00e9",
+        "position": "RFB",
+        "rating": 89
+      },
+      {
+        "name": "Mike McCarthy",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Fionn Fitzgerald",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Anthony Maher",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "James O'Donoghue",
+        "position": "RHF",
+        "rating": 87
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 87
+      },
+      {
+        "name": "Donnchadh Walsh",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "RFF",
+        "rating": 95
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "FF",
+        "rating": 90
+      },
+      {
+        "name": "Declan O'Sullivan",
+        "position": "LFF",
+        "rating": 85
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 87
+      },
+      {
+        "name": "Brendan Harrison",
+        "position": "FB",
+        "rating": 81
+      },
+      {
+        "name": "Kevin Keane",
+        "position": "LFB",
+        "rating": 79
+      },
+      {
+        "name": "Lee Keegan",
+        "position": "RHB",
+        "rating": 91
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Alan Dillon",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 89
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Conor O'Shea",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Jason Doherty",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "county": "Tipperary",
+    "players": [
+      {
+        "name": "Evan Comerford",
+        "position": "GK",
+        "rating": 77
+      },
+      {
+        "name": "Alan Campbell",
+        "position": "RFB",
+        "rating": 78
+      },
+      {
+        "name": "Robbie Kiely",
+        "position": "FB",
+        "rating": 79
+      },
+      {
+        "name": "Colin O'Riordan",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Peter Acheson",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Bill Maher",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "George Hannigan",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Liam Casey",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Brian Fox",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Conor Sweeney",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "John McGrath",
+        "position": "CHF",
+        "rating": 80
+      },
+      {
+        "name": "Michael Quinlivan",
+        "position": "LHF",
+        "rating": 83
+      },
+      {
+        "name": "Philip Austin",
+        "position": "RFF",
+        "rating": 78
+      },
+      {
+        "name": "Colman Kennedy",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Jimmy Feehan",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 99
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Rory O'Carroll",
+        "position": "FB",
+        "rating": 89
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 90
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "CHB",
+        "rating": 88
+      },
+      {
+        "name": "Jack McCaffrey",
+        "position": "LHB",
+        "rating": 90
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 97
+      },
+      {
+        "name": "Michael Darragh Macauley",
+        "position": "MF",
+        "rating": 88
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 95
+      },
+      {
+        "name": "Diarmuid Connolly",
+        "position": "CHF",
+        "rating": 92
+      },
+      {
+        "name": "Paul Flynn",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Bernard Brogan",
+        "position": "FF",
+        "rating": 90
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 87
+      },
+      {
+        "name": "Brendan Harrison",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Kevin Keane",
+        "position": "LFB",
+        "rating": 79
+      },
+      {
+        "name": "Lee Keegan",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Jason Doherty",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 84
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 89
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Fergal Boland",
+        "position": "LFF",
+        "rating": 79
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Niall Morgan",
+        "position": "GK",
+        "rating": 86
+      },
+      {
+        "name": "Colm Cavanagh",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Ronan McNamee",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "P\u00e1draig Hampsey",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Frank Burns",
+        "position": "RHB",
+        "rating": 82
+      },
+      {
+        "name": "Kieran McGeary",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "Justin McMahon",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 92
+      },
+      {
+        "name": "Mattie Donnelly",
+        "position": "MF",
+        "rating": 86
+      },
+      {
+        "name": "Peter Harte",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Mark Bradley",
+        "position": "CHF",
+        "rating": 80
+      },
+      {
+        "name": "Darren McCurry",
+        "position": "LHF",
+        "rating": 83
+      },
+      {
+        "name": "Cathal McShane",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Kyle Coney",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Niall Sludden",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Brian Kelly",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Fionn Fitzgerald",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Mark Griffin",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Gavin White",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Anthony Maher",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "James O'Donoghue",
+        "position": "RHF",
+        "rating": 86
+      },
+      {
+        "name": "Paul Galvin",
+        "position": "CHF",
+        "rating": 85
+      },
+      {
+        "name": "Donnchadh Walsh",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "RFF",
+        "rating": 94
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "FF",
+        "rating": 89
+      },
+      {
+        "name": "Bryan Sheehan",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 98
+      },
+      {
+        "name": "Michael Fitzsimons",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 90
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 91
+      },
+      {
+        "name": "John Small",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Jack McCaffrey",
+        "position": "LHB",
+        "rating": 90
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 97
+      },
+      {
+        "name": "Michael Darragh Macauley",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 95
+      },
+      {
+        "name": "Con O'Callaghan",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Paul Mannion",
+        "position": "LHF",
+        "rating": 87
+      },
+      {
+        "name": "Kevin McManamon",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Niall Scully",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "David Clarke",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 86
+      },
+      {
+        "name": "Brendan Harrison",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Lee Keegan",
+        "position": "RHB",
+        "rating": 92
+      },
+      {
+        "name": "Paddy Durcan",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Donal Vaughan",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Jason Doherty",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 89
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Fergal Boland",
+        "position": "LFF",
+        "rating": 79
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Brian Kelly",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Fionn Fitzgerald",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Mark Griffin",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Gavin White",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Aidan O'Mahony",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "Anthony Maher",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "James O'Donoghue",
+        "position": "RHF",
+        "rating": 86
+      },
+      {
+        "name": "Stephen O'Brien",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Donnchadh Walsh",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Colm Cooper",
+        "position": "RFF",
+        "rating": 93
+      },
+      {
+        "name": "Kieran Donaghy",
+        "position": "FF",
+        "rating": 87
+      },
+      {
+        "name": "Paul Geaney",
+        "position": "LFF",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Niall Morgan",
+        "position": "GK",
+        "rating": 87
+      },
+      {
+        "name": "Colm Cavanagh",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Ronan McNamee",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "P\u00e1draig Hampsey",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Frank Burns",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Kieran McGeary",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Mattie Donnelly",
+        "position": "LHB",
+        "rating": 87
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Conor Meyler",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Peter Harte",
+        "position": "RHF",
+        "rating": 86
+      },
+      {
+        "name": "Mark Bradley",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Darren McCurry",
+        "position": "LHF",
+        "rating": 84
+      },
+      {
+        "name": "Cathal McShane",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Kyle Coney",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Niall Sludden",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "county": "Monaghan",
+    "players": [
+      {
+        "name": "Rory Beggan",
+        "position": "GK",
+        "rating": 87
+      },
+      {
+        "name": "Ryan Wylie",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Vinny Corey",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Drew Wylie",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Karl O'Connell",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Kieran Duffy",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Fintan Kelly",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Dermot Malone",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Darren Hughes",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Conor McManus",
+        "position": "RHF",
+        "rating": 90
+      },
+      {
+        "name": "Dessie Mone",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Stephen Gollogly",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Jack McCarron",
+        "position": "RFF",
+        "rating": 82
+      },
+      {
+        "name": "Kieran Hughes",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Neil McAdam",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 98
+      },
+      {
+        "name": "Eoin Murchan",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "FB",
+        "rating": 88
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 89
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 91
+      },
+      {
+        "name": "John Small",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Jack McCaffrey",
+        "position": "LHB",
+        "rating": 90
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 97
+      },
+      {
+        "name": "Brian Howard",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 95
+      },
+      {
+        "name": "Con O'Callaghan",
+        "position": "CHF",
+        "rating": 92
+      },
+      {
+        "name": "Paul Mannion",
+        "position": "LHF",
+        "rating": 87
+      },
+      {
+        "name": "Cormac Costello",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Niall Scully",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 89
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Niall Morgan",
+        "position": "GK",
+        "rating": 88
+      },
+      {
+        "name": "Colm Cavanagh",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Ronan McNamee",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "P\u00e1draig Hampsey",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Frank Burns",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Kieran McGeary",
+        "position": "CHB",
+        "rating": 86
+      },
+      {
+        "name": "Mattie Donnelly",
+        "position": "LHB",
+        "rating": 88
+      },
+      {
+        "name": "Se\u00e1n Cavanagh",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Conor Meyler",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Peter Harte",
+        "position": "RHF",
+        "rating": 86
+      },
+      {
+        "name": "Mark Bradley",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Darren McCurry",
+        "position": "LHF",
+        "rating": 84
+      },
+      {
+        "name": "Cathal McShane",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Kyle Coney",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Niall Sludden",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Shane Ryan",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Fionn Fitzgerald",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Jason Foley",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Gavin White",
+        "position": "RHB",
+        "rating": 84
+      },
+      {
+        "name": "Tadhg Morley",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Jack Barry",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Se\u00e1n O'Shea",
+        "position": "RHF",
+        "rating": 87
+      },
+      {
+        "name": "Stephen O'Brien",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Donnchadh Walsh",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "David Clifford",
+        "position": "RFF",
+        "rating": 93
+      },
+      {
+        "name": "Paul Geaney",
+        "position": "FF",
+        "rating": 84
+      },
+      {
+        "name": "Killian Spillane",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "county": "Monaghan",
+    "players": [
+      {
+        "name": "Rory Beggan",
+        "position": "GK",
+        "rating": 88
+      },
+      {
+        "name": "Ryan Wylie",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Vinny Corey",
+        "position": "FB",
+        "rating": 81
+      },
+      {
+        "name": "Drew Wylie",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Karl O'Connell",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Kieran Duffy",
+        "position": "CHB",
+        "rating": 80
+      },
+      {
+        "name": "Fintan Kelly",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Dermot Malone",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Darren Hughes",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Conor McManus",
+        "position": "RHF",
+        "rating": 90
+      },
+      {
+        "name": "Dessie Mone",
+        "position": "CHF",
+        "rating": 80
+      },
+      {
+        "name": "Stephen Gollogly",
+        "position": "LHF",
+        "rating": 79
+      },
+      {
+        "name": "Jack McCarron",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Kieran Hughes",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Neil McAdam",
+        "position": "LFF",
+        "rating": 78
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 97
+      },
+      {
+        "name": "Eoin Murchan",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Jonny Cooper",
+        "position": "FB",
+        "rating": 87
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 88
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 90
+      },
+      {
+        "name": "John Small",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Jack McCaffrey",
+        "position": "LHB",
+        "rating": 90
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 97
+      },
+      {
+        "name": "Brian Howard",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 95
+      },
+      {
+        "name": "Con O'Callaghan",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Paul Mannion",
+        "position": "LHF",
+        "rating": 87
+      },
+      {
+        "name": "Cormac Costello",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Niall Scully",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 88
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Shane Ryan",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Jason Foley",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Gavin White",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Brian \u00d3 Beaglaoich",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Tadhg Morley",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Killian Young",
+        "position": "LHB",
+        "rating": 78
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Jack Barry",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Se\u00e1n O'Shea",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Paudie Clifford",
+        "position": "CHF",
+        "rating": 86
+      },
+      {
+        "name": "Dara Moynihan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "David Clifford",
+        "position": "RFF",
+        "rating": 95
+      },
+      {
+        "name": "Paul Geaney",
+        "position": "FF",
+        "rating": 84
+      },
+      {
+        "name": "Killian Spillane",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "Rob Hennelly",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Keith Higgins",
+        "position": "RFB",
+        "rating": 85
+      },
+      {
+        "name": "Brendan Harrison",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Lee Keegan",
+        "position": "RHB",
+        "rating": 91
+      },
+      {
+        "name": "Paddy Durcan",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "P\u00e1draig O'Hora",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Seamus O'Shea",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Jason Doherty",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 83
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 89
+      },
+      {
+        "name": "Andy Moran",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Ryan O'Donoghue",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Niall Morgan",
+        "position": "GK",
+        "rating": 88
+      },
+      {
+        "name": "Michael McKernan",
+        "position": "RFB",
+        "rating": 81
+      },
+      {
+        "name": "Ronan McNamee",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "P\u00e1draig Hampsey",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Frank Burns",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Kieran McGeary",
+        "position": "CHB",
+        "rating": 86
+      },
+      {
+        "name": "Mattie Donnelly",
+        "position": "LHB",
+        "rating": 88
+      },
+      {
+        "name": "Conor Meyler",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Colm Cavanagh",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Peter Harte",
+        "position": "RHF",
+        "rating": 86
+      },
+      {
+        "name": "Mark Bradley",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Darren McCurry",
+        "position": "LHF",
+        "rating": 84
+      },
+      {
+        "name": "Cathal McShane",
+        "position": "RFF",
+        "rating": 86
+      },
+      {
+        "name": "Darragh Canavan",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Niall Sludden",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "county": "Donegal",
+    "players": [
+      {
+        "name": "Shaun Patton",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Eamonn McGee",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Neil McGee",
+        "position": "FB",
+        "rating": 86
+      },
+      {
+        "name": "Paddy McGrath",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Caolan McGonagle",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Frank McGlynn",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Ryan McHugh",
+        "position": "LHB",
+        "rating": 87
+      },
+      {
+        "name": "Hugh McFadden",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Ciaran Thompson",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Jason McGee",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Michael Murphy",
+        "position": "CHF",
+        "rating": 92
+      },
+      {
+        "name": "Michael Langan",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "Patrick McBrearty",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Odhr\u00e1n Mac Niallais",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Jamie Brennan",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Stephen Cluxton",
+        "position": "GK",
+        "rating": 96
+      },
+      {
+        "name": "Eoin Murchan",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "David Byrne",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 87
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 89
+      },
+      {
+        "name": "John Small",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Robbie McDaid",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 96
+      },
+      {
+        "name": "Brian Howard",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 94
+      },
+      {
+        "name": "Con O'Callaghan",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Paul Mannion",
+        "position": "LHF",
+        "rating": 86
+      },
+      {
+        "name": "Cormac Costello",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Paddy Small",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 87
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "Rob Hennelly",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Ois\u00edn Mullin",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Brendan Harrison",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Lee Keegan",
+        "position": "RHB",
+        "rating": 90
+      },
+      {
+        "name": "Paddy Durcan",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "P\u00e1draig O'Hora",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Matthew Ruane",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 90
+      },
+      {
+        "name": "Jason Doherty",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 82
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 89
+      },
+      {
+        "name": "Tommy Conroy",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Ryan O'Donoghue",
+        "position": "LFF",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "county": "Tipperary",
+    "players": [
+      {
+        "name": "Evan Comerford",
+        "position": "GK",
+        "rating": 78
+      },
+      {
+        "name": "Alan Campbell",
+        "position": "RFB",
+        "rating": 79
+      },
+      {
+        "name": "Robbie Kiely",
+        "position": "FB",
+        "rating": 80
+      },
+      {
+        "name": "Colin O'Riordan",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Peter Acheson",
+        "position": "RHB",
+        "rating": 79
+      },
+      {
+        "name": "Bill Maher",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "George Hannigan",
+        "position": "LHB",
+        "rating": 79
+      },
+      {
+        "name": "Liam Casey",
+        "position": "MF",
+        "rating": 79
+      },
+      {
+        "name": "Brian Fox",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Conor Sweeney",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "John McGrath",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Michael Quinlivan",
+        "position": "LHF",
+        "rating": 84
+      },
+      {
+        "name": "Philip Austin",
+        "position": "RFF",
+        "rating": 78
+      },
+      {
+        "name": "Colman Kennedy",
+        "position": "FF",
+        "rating": 79
+      },
+      {
+        "name": "Jimmy Feehan",
+        "position": "LFF",
+        "rating": 77
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "county": "Tyrone",
+    "players": [
+      {
+        "name": "Niall Morgan",
+        "position": "GK",
+        "rating": 88
+      },
+      {
+        "name": "Michael McKernan",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Ronan McNamee",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "P\u00e1draig Hampsey",
+        "position": "LFB",
+        "rating": 85
+      },
+      {
+        "name": "Frank Burns",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Kieran McGeary",
+        "position": "CHB",
+        "rating": 87
+      },
+      {
+        "name": "Brian Kennedy",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Conn Smyth",
+        "position": "MF",
+        "rating": 81
+      },
+      {
+        "name": "Colm Cavanagh",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Mattie Donnelly",
+        "position": "RHF",
+        "rating": 88
+      },
+      {
+        "name": "Niall Sludden",
+        "position": "CHF",
+        "rating": 81
+      },
+      {
+        "name": "Darren McCurry",
+        "position": "LHF",
+        "rating": 85
+      },
+      {
+        "name": "Cathal McShane",
+        "position": "RFF",
+        "rating": 86
+      },
+      {
+        "name": "Darragh Canavan",
+        "position": "FF",
+        "rating": 85
+      },
+      {
+        "name": "Mark Bradley",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "county": "Mayo",
+    "players": [
+      {
+        "name": "Rob Hennelly",
+        "position": "GK",
+        "rating": 85
+      },
+      {
+        "name": "Ois\u00edn Mullin",
+        "position": "RFB",
+        "rating": 85
+      },
+      {
+        "name": "Brendan Harrison",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Colm Boyle",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "Lee Keegan",
+        "position": "RHB",
+        "rating": 90
+      },
+      {
+        "name": "Paddy Durcan",
+        "position": "CHB",
+        "rating": 84
+      },
+      {
+        "name": "P\u00e1draig O'Hora",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Matthew Ruane",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Aidan O'Shea",
+        "position": "MF",
+        "rating": 91
+      },
+      {
+        "name": "Jason Doherty",
+        "position": "RHF",
+        "rating": 81
+      },
+      {
+        "name": "Kevin McLoughlin",
+        "position": "CHF",
+        "rating": 82
+      },
+      {
+        "name": "Cillian O'Connor",
+        "position": "LHF",
+        "rating": 89
+      },
+      {
+        "name": "Tommy Conroy",
+        "position": "RFF",
+        "rating": 84
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "FF",
+        "rating": 84
+      },
+      {
+        "name": "Ryan O'Donoghue",
+        "position": "LFF",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Shane Ryan",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Jason Foley",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Gavin White",
+        "position": "LFB",
+        "rating": 84
+      },
+      {
+        "name": "Brian \u00d3 Beaglaoich",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Tadhg Morley",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Dara Moynihan",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "David Moran",
+        "position": "MF",
+        "rating": 87
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n O'Shea",
+        "position": "RHF",
+        "rating": 89
+      },
+      {
+        "name": "Paudie Clifford",
+        "position": "CHF",
+        "rating": 87
+      },
+      {
+        "name": "Adrian Spillane",
+        "position": "LHF",
+        "rating": 81
+      },
+      {
+        "name": "David Clifford",
+        "position": "RFF",
+        "rating": 96
+      },
+      {
+        "name": "Paul Geaney",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Killian Spillane",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Evan Comerford",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Eoin Murchan",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "David Byrne",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Philly McMahon",
+        "position": "LFB",
+        "rating": 86
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 88
+      },
+      {
+        "name": "John Small",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Brian Howard",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 95
+      },
+      {
+        "name": "Tom Lahiff",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 93
+      },
+      {
+        "name": "Con O'Callaghan",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Paul Mannion",
+        "position": "LHF",
+        "rating": 85
+      },
+      {
+        "name": "Cormac Costello",
+        "position": "RFF",
+        "rating": 85
+      },
+      {
+        "name": "Paddy Small",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 86
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Shane Ryan",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Graham O'Sullivan",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Jason Foley",
+        "position": "FB",
+        "rating": 85
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Gavin White",
+        "position": "RHB",
+        "rating": 84
+      },
+      {
+        "name": "Tadhg Morley",
+        "position": "CHB",
+        "rating": 83
+      },
+      {
+        "name": "Brian \u00d3 Beaglaoich",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "David Clifford",
+        "position": "MF",
+        "rating": 97
+      },
+      {
+        "name": "Dara Moynihan",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n O'Shea",
+        "position": "CHF",
+        "rating": 90
+      },
+      {
+        "name": "Paudie Clifford",
+        "position": "LHF",
+        "rating": 87
+      },
+      {
+        "name": "Tony Brosnan",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Paul Geaney",
+        "position": "FF",
+        "rating": 84
+      },
+      {
+        "name": "Killian Spillane",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "county": "Galway",
+    "players": [
+      {
+        "name": "Connaught \u00d3 Beaglaoich",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Se\u00e1n Kelly",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Se\u00e1n Mulkerrin",
+        "position": "FB",
+        "rating": 81
+      },
+      {
+        "name": "Jack Glynn",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Liam Silke",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "John Daly",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Cein D'Arcy",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Paul Conroy",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Matthew Tierney",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Robert Finnerty",
+        "position": "RHF",
+        "rating": 84
+      },
+      {
+        "name": "Shane Walsh",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Ciar\u00e1n Duggan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Damien Comer",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Johnny Heaney",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Kieran Molloy",
+        "position": "LFF",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "county": "Derry",
+    "players": [
+      {
+        "name": "Odhran Lynch",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Chrissy McKaigue",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Brendan Rogers",
+        "position": "FB",
+        "rating": 83
+      },
+      {
+        "name": "Conor McCluskey",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Padraig McGrogan",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Gareth McKinless",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Conor Glass",
+        "position": "LHB",
+        "rating": 87
+      },
+      {
+        "name": "Conor Doherty",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Ethan Doherty",
+        "position": "MF",
+        "rating": 84
+      },
+      {
+        "name": "Paul Cassidy",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Shane McGuigan",
+        "position": "CHF",
+        "rating": 88
+      },
+      {
+        "name": "Niall Toner",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Cormac O'Doherty",
+        "position": "RFF",
+        "rating": 82
+      },
+      {
+        "name": "Emmett Bradley",
+        "position": "FF",
+        "rating": 81
+      },
+      {
+        "name": "Lachlan Murray",
+        "position": "LFF",
+        "rating": 80
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Evan Comerford",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Eoin Murchan",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "David Byrne",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Lee Gannon",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 87
+      },
+      {
+        "name": "John Small",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Brian Howard",
+        "position": "LHB",
+        "rating": 83
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 95
+      },
+      {
+        "name": "Tom Lahiff",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 93
+      },
+      {
+        "name": "Con O'Callaghan",
+        "position": "CHF",
+        "rating": 92
+      },
+      {
+        "name": "Niall Scully",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Cormac Costello",
+        "position": "RFF",
+        "rating": 86
+      },
+      {
+        "name": "Paddy Small",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 86
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "county": "Dublin",
+    "players": [
+      {
+        "name": "Evan Comerford",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Eoin Murchan",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "David Byrne",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Lee Gannon",
+        "position": "LFB",
+        "rating": 81
+      },
+      {
+        "name": "James McCarthy",
+        "position": "RHB",
+        "rating": 87
+      },
+      {
+        "name": "John Small",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Se\u00e1n Bugler",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Brian Fenton",
+        "position": "MF",
+        "rating": 95
+      },
+      {
+        "name": "Tom Lahiff",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Ciar\u00e1n Kilkenny",
+        "position": "RHF",
+        "rating": 93
+      },
+      {
+        "name": "Con O'Callaghan",
+        "position": "CHF",
+        "rating": 93
+      },
+      {
+        "name": "Niall Scully",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Cormac Costello",
+        "position": "RFF",
+        "rating": 86
+      },
+      {
+        "name": "Paddy Small",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Dean Rock",
+        "position": "LFF",
+        "rating": 86
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Shane Ryan",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Graham O'Sullivan",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Jason Foley",
+        "position": "FB",
+        "rating": 85
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Gavin White",
+        "position": "RHB",
+        "rating": 84
+      },
+      {
+        "name": "Tadhg Morley",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Brian \u00d3 Beaglaoich",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "David Clifford",
+        "position": "MF",
+        "rating": 97
+      },
+      {
+        "name": "Dara Moynihan",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n O'Shea",
+        "position": "CHF",
+        "rating": 89
+      },
+      {
+        "name": "Paudie Clifford",
+        "position": "LHF",
+        "rating": 87
+      },
+      {
+        "name": "Tony Brosnan",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Paul Geaney",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Killian Spillane",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "county": "Galway",
+    "players": [
+      {
+        "name": "Connaught \u00d3 Beaglaoich",
+        "position": "GK",
+        "rating": 80
+      },
+      {
+        "name": "Se\u00e1n Kelly",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n Mulkerrin",
+        "position": "FB",
+        "rating": 81
+      },
+      {
+        "name": "Jack Glynn",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Liam Silke",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "John Daly",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Cein D'Arcy",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Paul Conroy",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Matthew Tierney",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Robert Finnerty",
+        "position": "RHF",
+        "rating": 84
+      },
+      {
+        "name": "Shane Walsh",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Ciar\u00e1n Duggan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Damien Comer",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Johnny Heaney",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Kieran Molloy",
+        "position": "LFF",
+        "rating": 83
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "county": "Derry",
+    "players": [
+      {
+        "name": "Odhran Lynch",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Chrissy McKaigue",
+        "position": "RFB",
+        "rating": 84
+      },
+      {
+        "name": "Brendan Rogers",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Conor McCluskey",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Padraig McGrogan",
+        "position": "RHB",
+        "rating": 81
+      },
+      {
+        "name": "Gareth McKinless",
+        "position": "CHB",
+        "rating": 86
+      },
+      {
+        "name": "Conor Glass",
+        "position": "LHB",
+        "rating": 88
+      },
+      {
+        "name": "Conor Doherty",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Ethan Doherty",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Paul Cassidy",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Shane McGuigan",
+        "position": "CHF",
+        "rating": 88
+      },
+      {
+        "name": "Niall Toner",
+        "position": "LHF",
+        "rating": 80
+      },
+      {
+        "name": "Cormac O'Doherty",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Emmett Bradley",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Lachlan Murray",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "county": "Armagh",
+    "players": [
+      {
+        "name": "Blaine Hughes",
+        "position": "GK",
+        "rating": 82
+      },
+      {
+        "name": "Aidan Forker",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Aaron McKay",
+        "position": "FB",
+        "rating": 81
+      },
+      {
+        "name": "Paddy Burns",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Niall Grimley",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "Jarlath \u00d3g Burns",
+        "position": "CHB",
+        "rating": 85
+      },
+      {
+        "name": "Barry McCambridge",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Ben Crealey",
+        "position": "MF",
+        "rating": 80
+      },
+      {
+        "name": "Ois\u00edn Conaty",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Rory Grugan",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Stefan Campbell",
+        "position": "CHF",
+        "rating": 86
+      },
+      {
+        "name": "Ois\u00edn O'Neill",
+        "position": "LHF",
+        "rating": 84
+      },
+      {
+        "name": "Andrew Murnin",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Conor Turbitt",
+        "position": "FF",
+        "rating": 86
+      },
+      {
+        "name": "Ross McQuillan",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "county": "Galway",
+    "players": [
+      {
+        "name": "Connaught \u00d3 Beaglaoich",
+        "position": "GK",
+        "rating": 81
+      },
+      {
+        "name": "Se\u00e1n Kelly",
+        "position": "RFB",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n Mulkerrin",
+        "position": "FB",
+        "rating": 82
+      },
+      {
+        "name": "Jack Glynn",
+        "position": "LFB",
+        "rating": 83
+      },
+      {
+        "name": "Liam Silke",
+        "position": "RHB",
+        "rating": 83
+      },
+      {
+        "name": "John Daly",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Cein D'Arcy",
+        "position": "LHB",
+        "rating": 81
+      },
+      {
+        "name": "Paul Conroy",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Matthew Tierney",
+        "position": "MF",
+        "rating": 85
+      },
+      {
+        "name": "Robert Finnerty",
+        "position": "RHF",
+        "rating": 85
+      },
+      {
+        "name": "Shane Walsh",
+        "position": "CHF",
+        "rating": 91
+      },
+      {
+        "name": "Ciar\u00e1n Duggan",
+        "position": "LHF",
+        "rating": 82
+      },
+      {
+        "name": "Damien Comer",
+        "position": "RFF",
+        "rating": 88
+      },
+      {
+        "name": "Johnny Heaney",
+        "position": "FF",
+        "rating": 83
+      },
+      {
+        "name": "Kieran Molloy",
+        "position": "LFF",
+        "rating": 84
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "county": "Kerry",
+    "players": [
+      {
+        "name": "Shane Ryan",
+        "position": "GK",
+        "rating": 84
+      },
+      {
+        "name": "Graham O'Sullivan",
+        "position": "RFB",
+        "rating": 80
+      },
+      {
+        "name": "Jason Foley",
+        "position": "FB",
+        "rating": 85
+      },
+      {
+        "name": "Tom O'Sullivan",
+        "position": "LFB",
+        "rating": 82
+      },
+      {
+        "name": "Gavin White",
+        "position": "RHB",
+        "rating": 84
+      },
+      {
+        "name": "Tadhg Morley",
+        "position": "CHB",
+        "rating": 82
+      },
+      {
+        "name": "Brian \u00d3 Beaglaoich",
+        "position": "LHB",
+        "rating": 80
+      },
+      {
+        "name": "Diarmuid O'Connor",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "David Clifford",
+        "position": "MF",
+        "rating": 97
+      },
+      {
+        "name": "Dara Moynihan",
+        "position": "RHF",
+        "rating": 83
+      },
+      {
+        "name": "Se\u00e1n O'Shea",
+        "position": "CHF",
+        "rating": 89
+      },
+      {
+        "name": "Paudie Clifford",
+        "position": "LHF",
+        "rating": 87
+      },
+      {
+        "name": "Tony Brosnan",
+        "position": "RFF",
+        "rating": 83
+      },
+      {
+        "name": "Paul Geaney",
+        "position": "FF",
+        "rating": 82
+      },
+      {
+        "name": "Killian Spillane",
+        "position": "LFF",
+        "rating": 81
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "county": "Donegal",
+    "players": [
+      {
+        "name": "Shaun Patton",
+        "position": "GK",
+        "rating": 83
+      },
+      {
+        "name": "Caolan McGonagle",
+        "position": "RFB",
+        "rating": 82
+      },
+      {
+        "name": "Neil McGee",
+        "position": "FB",
+        "rating": 84
+      },
+      {
+        "name": "Paddy McGrath",
+        "position": "LFB",
+        "rating": 80
+      },
+      {
+        "name": "Ryan McHugh",
+        "position": "RHB",
+        "rating": 87
+      },
+      {
+        "name": "Brendan McCole",
+        "position": "CHB",
+        "rating": 81
+      },
+      {
+        "name": "Michael Langan",
+        "position": "LHB",
+        "rating": 82
+      },
+      {
+        "name": "Hugh McFadden",
+        "position": "MF",
+        "rating": 83
+      },
+      {
+        "name": "Ciaran Thompson",
+        "position": "MF",
+        "rating": 82
+      },
+      {
+        "name": "Jason McGee",
+        "position": "RHF",
+        "rating": 82
+      },
+      {
+        "name": "Michael Murphy",
+        "position": "CHF",
+        "rating": 90
+      },
+      {
+        "name": "Ois\u00edn Gallen",
+        "position": "LHF",
+        "rating": 85
+      },
+      {
+        "name": "Patrick McBrearty",
+        "position": "RFF",
+        "rating": 87
+      },
+      {
+        "name": "Odhr\u00e1n Mac Niallais",
+        "position": "FF",
+        "rating": 80
+      },
+      {
+        "name": "Jamie Brennan",
+        "position": "LFF",
+        "rating": 82
+      }
+    ]
+  }
+]
