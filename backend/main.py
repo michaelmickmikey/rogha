@@ -114,12 +114,28 @@ def gen_timeline(user_players: list, opp_players: list, user_score: dict, opp_sc
 def simulate(req: SimRequest):
     players = req.players[:15]
     user_str = team_strength(players)
-    rounds = ["Quarter Final", "Semi Final", "All-Ireland Final"]
+
+    # Sort all teams by strength so we can tier the draw
+    all_sorted = sorted(WINNING_TEAMS, key=lambda t: team_strength(t["players"]))
+    n = len(all_sorted)
+    qf_pool   = all_sorted[:int(n * 0.45)]           # weakest 45%
+    sf_pool   = all_sorted[int(n * 0.35):int(n * 0.72)]  # middle tier
+    final_pool = all_sorted[int(n * 0.72):]           # top 28% — elite sides
+
+    # Round difficulty bias: subtracted from user win probability
+    round_config = [
+        ("Quarter Final", qf_pool,    0.0),
+        ("Semi Final",    sf_pool,     0.08),
+        ("All-Ireland Final", final_pool, 0.20),
+    ]
+
     used_opp = set()
     results = []
 
-    for rnd in rounds:
-        available = [t for t in WINNING_TEAMS if f"{t['year']}-{t['county']}" not in used_opp]
+    for rnd, pool, bias in round_config:
+        available = [t for t in pool if f"{t['year']}-{t['county']}" not in used_opp]
+        if not available:
+            available = [t for t in WINNING_TEAMS if f"{t['year']}-{t['county']}" not in used_opp]
         if not available:
             break
         opp = random.choice(available)
@@ -127,7 +143,7 @@ def simulate(req: SimRequest):
         opp_str = team_strength(opp["players"])
 
         diff = user_str - opp_str
-        win_prob = max(0.12, min(0.88, 0.5 + diff / 35))
+        win_prob = max(0.08, min(0.82, 0.5 + diff / 35 - bias))
         user_wins = random.random() < win_prob
 
         user_score = gen_gaa_score(user_str, user_wins)
